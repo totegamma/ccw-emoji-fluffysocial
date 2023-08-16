@@ -1,0 +1,2899 @@
+{
+    "name": "fluffysocial letters",
+    "version": "1.0.0",
+    "description": "fluffysocialで使われがちな文字絵文字です",
+    "credit": "",
+    "iconURL": "https://storage.fluffy.social/files/6a014f5e-69e0-47ad-bf16-e7d3f2c7c4f5.png",
+    "emojis": [
+        {
+            "shortcode": "death",
+            "imageURL": "https://fluffy.social/files/aebdb4c9-32fe-4a83-830a-48bb4429c082",
+            "aliases": [
+            "死",
+            "death",
+            "dead"
+            ]
+        },
+        {
+            "shortcode": "wakaru",
+            "imageURL": "https://fluffy.social/files/c5710685-cd17-444e-855c-bd86916d4d1a",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kanashii",
+            "imageURL": "https://fluffy.social/files/eae669b2-eb4e-40c9-80b7-776b3840ca7f",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "tanshiba",
+            "imageURL": "https://fluffy.social/files/a619567c-7d1d-4bed-a3d5-9a293d64edc6",
+            "aliases": [
+            "単芝",
+            "草",
+            "w",
+            "わら",
+            "lol"
+            ]
+        },
+        {
+            "shortcode": "wanchan",
+            "imageURL": "https://fluffy.social/files/5a1e4bcd-c15d-49b3-83d6-34cabd0e0575",
+            "aliases": []
+        },
+        {
+            "shortcode": "zatsu",
+            "imageURL": "https://fluffy.social/files/b09f4584-e7c7-4c61-9fd4-84a1343ad75b",
+            "aliases": [
+            "雑",
+            "za",
+            "zatsu"
+            ]
+        },
+        {
+            "shortcode": "sakana",
+            "imageURL": "https://fluffy.social/files/94e46cd9-d1e2-46d3-88c0-7ad6b58390c2",
+            "aliases": [
+            "魚",
+            "sakana",
+            "fish",
+            "こ"
+            ]
+        },
+        {
+            "shortcode": "otsu",
+            "imageURL": "https://fluffy.social/files/db6d0074-e4f3-49c7-aa90-e71577dfb809",
+            "aliases": [
+            "おつ",
+            "乙",
+            "z_sorame",
+            "otu"
+            ]
+        },
+        {
+            "shortcode": "echi",
+            "imageURL": "https://fluffy.social/files/1d2e33c8-7df4-459a-8ebe-7ce5e9b2c2fc",
+            "aliases": [
+            "えち",
+            "えっち",
+            "eti",
+            "echi",
+            "ecchi",
+            "h"
+            ]
+        },
+        {
+            "shortcode": "nete",
+            "imageURL": "https://fluffy.social/files/ffbfad5b-1cc2-4484-b3b1-b25e5e8e7db5",
+            "aliases": []
+        },
+        {
+            "shortcode": "morojan",
+            "imageURL": "https://fluffy.social/files/48dc9514-ee52-4c61-b1b1-78c35eee6ccd",
+            "aliases": []
+        },
+        {
+            "shortcode": "okashiine",
+            "imageURL": "https://fluffy.social/files/0bbfd9d7-884e-49fc-96c7-426b01a3e650",
+            "aliases": []
+        },
+        {
+            "shortcode": "sukkiri2",
+            "imageURL": "https://fluffy.social/files/c285f53d-f329-4bce-b996-18d86e5d7d56",
+            "aliases": []
+        },
+        {
+            "shortcode": "oishiine",
+            "imageURL": "https://fluffy.social/files/11262781-429a-45dc-8db4-6fb1cc972b1e",
+            "aliases": [
+            "おいしいね"
+            ]
+        },
+        {
+            "shortcode": "oishisou",
+            "imageURL": "https://fluffy.social/files/699d127e-0c53-4bcc-9639-b6f234e3fcf9",
+            "aliases": [
+            "おいしそう"
+            ]
+        },
+        {
+            "shortcode": "nazo",
+            "imageURL": "https://fluffy.social/files/92632bd7-3ae8-450e-abb9-b1f2a90b01e1",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "okay",
+            "imageURL": "https://fluffy.social/files/04a6e27b-12d8-4182-b0a4-36ac5358d48f",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "arigatomatsuri",
+            "imageURL": "https://fluffy.social/files/0b44f6ac-7d96-4baa-af4b-fd058c934ed2",
+            "aliases": [
+            "未分類"
+            ]
+        },
+        {
+            "shortcode": "ureshii",
+            "imageURL": "https://fluffy.social/files/b88e5287-0177-43cb-846d-860f8d913bfa",
+            "aliases": [
+            "uresii",
+            "happy"
+            ]
+        },
+        {
+            "shortcode": "kawaii",
+            "imageURL": "https://fluffy.social/files/6af3a86a-5ced-4044-bc07-cfdd2303707d",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "naruhodo",
+            "imageURL": "https://fluffy.social/files/49ca412e-2f23-4273-b3be-07eb101f9929",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "test",
+            "imageURL": "https://fluffy.social/files/c6a1c447-38a3-4142-a83d-9affb5a953e3",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "chotto_chigau",
+            "imageURL": "https://fluffy.social/files/58bf7396-e51a-4122-9811-5cd86d12d17a",
+            "aliases": [
+            "tigau"
+            ]
+        },
+        {
+            "shortcode": "alaskan_malamute",
+            "imageURL": "https://fluffy.social/files/caf4e247-16b9-45c6-9565-b9e0f32f626f",
+            "aliases": [
+            "arasukan"
+            ]
+        },
+        {
+            "shortcode": "taihen_ne_",
+            "imageURL": "https://fluffy.social/files/6b47be8b-7aaf-414e-8473-8b7b82e29105",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "doki",
+            "imageURL": "https://fluffy.social/files/5277cdab-2ee7-48ce-a8ed-8bc771efb3df",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "sukkiri",
+            "imageURL": "https://fluffy.social/files/7e33a8d0-6fff-4a7c-8126-3da7ed4dfa94",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "hetare",
+            "imageURL": "https://fluffy.social/files/a9938ba0-68cf-4d0e-a5af-e297b17d4644",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "nametare",
+            "imageURL": "https://fluffy.social/files/7ef88ac5-76db-4efa-b8c5-069cf4b4f1a3",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "dashitare",
+            "imageURL": "https://fluffy.social/files/b13f809b-b2e9-43b9-b079-c329ad2fea6a",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "atetare",
+            "imageURL": "https://fluffy.social/files/webpublic-1b574ced-4b3e-49ec-a2b3-06ed4d01b889",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "suttare",
+            "imageURL": "https://fluffy.social/files/3abbebeb-a840-4ab8-9242-4da97ede2a4c",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "ochiketsu",
+            "imageURL": "https://fluffy.social/files/webpublic-c7b29170-deae-4816-8ba8-6b5fff4f6e13",
+            "aliases": [
+            "ochitsuke",
+            "otituke"
+            ]
+        },
+        {
+            "shortcode": "sonnnakigasuru",
+            "imageURL": "https://fluffy.social/files/webpublic-7755394d-d264-4bf3-9fc6-27e64d289392",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "hazure",
+            "imageURL": "https://fluffy.social/files/webpublic-20d0d7cd-174f-4f6d-afd9-c6edff061294",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "fuseikai",
+            "imageURL": "https://fluffy.social/files/webpublic-3d5733a9-ce57-4a63-bc15-ca5f584f7db1",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "seikai",
+            "imageURL": "https://fluffy.social/files/webpublic-36ccced8-db21-4a92-b9d7-649b0cebebc4",
+            "aliases": []
+        },
+        {
+            "shortcode": "atari",
+            "imageURL": "https://fluffy.social/files/webpublic-82a2a3a1-54e8-42bd-9dd4-49344688142e",
+            "aliases": []
+        },
+        {
+            "shortcode": "ara_taihen",
+            "imageURL": "https://fluffy.social/files/466579bd-a580-4774-8c32-434ab94d10cb",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "anataima_chinkotte_iimashitane",
+            "imageURL": "https://fluffy.social/files/9b064392-cbf2-4648-a2a8-3534f45e1a38",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "anataima_unkotte_iimashitane",
+            "imageURL": "https://fluffy.social/files/3985d126-95ac-47a4-a644-f0f499cc08a1",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "nanto",
+            "imageURL": "https://fluffy.social/files/12b35bc8-7a1b-44f0-aca7-c41d498a5dd4",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "ogoride_yakiniku",
+            "imageURL": "https://fluffy.social/files/fc10bd7e-20eb-4819-add2-00171346dd00",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "ogoride_sushi",
+            "imageURL": "https://fluffy.social/files/8e42445b-ad3b-42da-9784-2e53d84e9a1d",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "off",
+            "imageURL": "https://fluffy.social/files/5e5e2648-5994-4c51-b2b6-2961198a4e1d",
+            "aliases": [
+            "ofu"
+            ]
+        },
+        {
+            "shortcode": "oremoonajikimochi",
+            "imageURL": "https://fluffy.social/files/b9ed914e-084c-43b4-ad9b-17330edacdd5",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kuromaku",
+            "imageURL": "https://fluffy.social/files/d5e5c045-134a-4267-914c-84c5f51dee2a",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "shitai",
+            "imageURL": "https://fluffy.social/files/6a6f506b-1e2a-4d5f-a786-aa94864dd21c",
+            "aliases": [
+            "sitai"
+            ]
+        },
+        {
+            "shortcode": "chuteki",
+            "imageURL": "https://fluffy.social/files/cb4795f8-8856-4102-bc88-1926f7187b25",
+            "aliases": [
+            "tyuteki",
+            "suteki"
+            ]
+        },
+        {
+            "shortcode": "sibehasu",
+            "imageURL": "https://fluffy.social/files/1af2689e-0519-4d2b-950d-a3b23b5fb6fc",
+            "aliases": [
+            "shibehasu",
+            "siberian",
+            "husky"
+            ]
+        },
+        {
+            "shortcode": "koi",
+            "imageURL": "https://fluffy.social/files/7ead783d-dc6c-48c1-8028-3b897c7c56a4",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "gichigichi",
+            "imageURL": "https://fluffy.social/files/1c9ba44e-ad4c-40f4-b761-b208c1fb6ea1",
+            "aliases": [
+            "gitigiti",
+            "ぎちぎち"
+            ]
+        },
+        {
+            "shortcode": "kitsukitsu",
+            "imageURL": "https://fluffy.social/files/33d39b25-c0e0-4ebf-99be-ce14dc70d81d",
+            "aliases": [
+            "kitukitu",
+            "きつきつ"
+            ]
+        },
+        {
+            "shortcode": "chiken",
+            "imageURL": "https://fluffy.social/files/704ef9ba-ada4-4a36-bf05-51aa50e34bf4",
+            "aliases": [
+            "tiken",
+            "知見",
+            "tomomi"
+            ]
+        },
+        {
+            "shortcode": "oo",
+            "imageURL": "https://fluffy.social/files/8704aa35-f09b-4739-91ac-33e68ce5babb",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "haii",
+            "imageURL": "https://fluffy.social/files/f5c83bf5-14b1-4acc-b3c5-63bcb1a0f8cb",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "suiyoubino_downtime",
+            "imageURL": "https://fluffy.social/files/2deb74ef-ccef-4f47-a7b2-720364087bc0",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "iizo",
+            "imageURL": "https://fluffy.social/files/webpublic-14975db2-1e1b-4a89-8e2d-7dca24178e8e",
+            "aliases": []
+        },
+        {
+            "shortcode": "dashite",
+            "imageURL": "https://fluffy.social/files/webpublic-37652f98-5b70-4c6a-b36c-c1917d6f9284",
+            "aliases": [
+            "dasite"
+            ]
+        },
+        {
+            "shortcode": "yattare",
+            "imageURL": "https://fluffy.social/files/webpublic-4d31eaac-7228-465f-b893-6546a751b7fd",
+            "aliases": []
+        },
+        {
+            "shortcode": "sousore",
+            "imageURL": "https://fluffy.social/files/webpublic-1b955254-6c3e-4215-8b2d-5f81cef04b7e",
+            "aliases": [
+            "sosore"
+            ]
+        },
+        {
+            "shortcode": "taisetsu",
+            "imageURL": "https://fluffy.social/files/webpublic-e2be2bec-b15a-4c45-82a4-f8b206534396",
+            "aliases": [
+            "taisetu"
+            ]
+        },
+        {
+            "shortcode": "uooo",
+            "imageURL": "https://fluffy.social/files/ae291ab7-4318-4451-b595-cfb3addb4027",
+            "aliases": []
+        },
+        {
+            "shortcode": "sanji_",
+            "imageURL": "https://fluffy.social/files/webpublic-904d600d-eee4-4017-8b6a-a79538ced1c1",
+            "aliases": []
+        },
+        {
+            "shortcode": "tensai_",
+            "imageURL": "https://fluffy.social/files/f0b6f7d8-c581-4d0f-90a4-17312bb47ba2",
+            "aliases": []
+        },
+        {
+            "shortcode": "kamiwaza_",
+            "imageURL": "https://fluffy.social/files/6f156d56-e578-4153-8d4d-24fb925ca2b9",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "arigato_",
+            "imageURL": "https://fluffy.social/files/e1cecc78-85ad-49b9-8149-994edc02221e",
+            "aliases": [
+            "arigato",
+            "thx"
+            ]
+        },
+        {
+            "shortcode": "yume",
+            "imageURL": "https://fluffy.social/files/webpublic-6d1c52a4-717b-4056-bd4e-2fec12f94d01",
+            "aliases": [
+            "dream"
+            ]
+        },
+        {
+            "shortcode": "dase_",
+            "imageURL": "https://fluffy.social/files/webpublic-c6336733-5375-41c3-a940-28c941104af7",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "honsore",
+            "imageURL": "https://fluffy.social/files/06da2fb2-92db-4af4-9996-1d611fc2b181",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "errorjan",
+            "imageURL": "https://fluffy.social/files/c72d7035-e536-4096-8100-d39c0cce87d0",
+            "aliases": []
+        },
+        {
+            "shortcode": "hotondoihou",
+            "imageURL": "https://fluffy.social/files/90b2bca8-3fe6-4d48-a8d4-4a239bacb27e",
+            "aliases": [
+            "is_almost_illegal"
+            ]
+        },
+        {
+            "shortcode": "sousore",
+            "imageURL": "https://fluffy.social/files/webpublic-2668605d-9a96-41c4-b997-f335cc51f342",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "juuyou",
+            "imageURL": "https://fluffy.social/files/webpublic-e00aaf33-4c27-465f-88e3-3427fb1af9fd",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "youkoso",
+            "imageURL": "https://fluffy.social/files/fd4931c4-f608-4158-8de8-b64520c5962e",
+            "aliases": [
+            "Windows"
+            ]
+        },
+        {
+            "shortcode": "meltu",
+            "imageURL": "https://fluffy.social/files/0f843c33-25ac-49a3-9b90-62c097960822",
+            "aliases": []
+        },
+        {
+            "shortcode": "eltu",
+            "imageURL": "https://fluffy.social/files/66883426-2d2a-4fce-bd19-5771e22accdf",
+            "aliases": []
+        },
+        {
+            "shortcode": "kultu",
+            "imageURL": "https://fluffy.social/files/f7072d17-46f3-4572-b0e6-4deac5895947",
+            "aliases": []
+        },
+        {
+            "shortcode": "ltuu",
+            "imageURL": "https://fluffy.social/files/f32ade36-224e-4006-b65b-67dabbff6651",
+            "aliases": []
+        },
+        {
+            "shortcode": "iltu",
+            "imageURL": "https://fluffy.social/files/00f04f8d-7a18-45a0-b5b9-1502c908aa33",
+            "aliases": []
+        },
+        {
+            "shortcode": "yoltu",
+            "imageURL": "https://fluffy.social/files/3a8fc4f1-98d1-4270-98fb-3f96d29331c2",
+            "aliases": []
+        },
+        {
+            "shortcode": "siltu",
+            "imageURL": "https://fluffy.social/files/ed52d7ea-3e35-4fcc-bd06-4c3914d56d2e",
+            "aliases": []
+        },
+        {
+            "shortcode": "mochimochi",
+            "imageURL": "https://fluffy.social/files/83cc6837-0f6f-4151-b646-6279c92f0ca9",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kuttare",
+            "imageURL": "https://fluffy.social/files/091fe767-5157-49f1-92b9-3b747186482f",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "taikin",
+            "imageURL": "https://fluffy.social/files/af0615a8-677c-4fc4-868b-a54872a0a303",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "ikite",
+            "imageURL": "https://fluffy.social/files/6d145d9a-0c2e-471e-b474-42c6574ac6d5",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kawaikochan",
+            "imageURL": "https://fluffy.social/files/88f73e0e-b991-478f-9540-30eb776d8e9d",
+            "aliases": [
+            "cute"
+            ]
+        },
+        {
+            "shortcode": "kakuhen",
+            "imageURL": "https://fluffy.social/files/6682d333-9edb-4050-982c-9a3c13e20eae",
+            "aliases": [
+            "bonus",
+            "animated"
+            ]
+        },
+        {
+            "shortcode": "kane",
+            "imageURL": "https://fluffy.social/files/baa257de-19de-42cb-8277-3d9c772bd0ba",
+            "aliases": [
+            "gold",
+            "kin",
+            "animated"
+            ]
+        },
+        {
+            "shortcode": "saikyou",
+            "imageURL": "https://fluffy.social/files/483793aa-7c94-4099-9c62-a0f9902124f8",
+            "aliases": [
+            "",
+            "animated"
+            ]
+        },
+        {
+            "shortcode": "wakaru2",
+            "imageURL": "https://fluffy.social/files/2dc147c6-5533-45ca-b3bd-8d213d353bba",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "nanmowakaran",
+            "imageURL": "https://fluffy.social/files/e58193df-95ad-4a2a-853f-38bd71deba5b",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kowaihanashi",
+            "imageURL": "https://fluffy.social/files/ccc35be0-5d2e-4068-a96c-de0cf06bc056",
+            "aliases": [
+            "",
+            "animated"
+            ]
+        },
+        {
+            "shortcode": "kouginosekkusu",
+            "imageURL": "https://fluffy.social/files/bf0caca1-c751-4642-8d5b-f7c135aed67a",
+            "aliases": [
+            "sex"
+            ]
+        },
+        {
+            "shortcode": "nyaa",
+            "imageURL": "https://fluffy.social/files/247e1e7b-2a47-43b4-b79d-5e9b69435ffb",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "nyaa2",
+            "imageURL": "https://fluffy.social/files/b4a57c73-d4c8-4eaa-98fb-da2e70f0bdc5",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "nyaa2_orange",
+            "imageURL": "https://fluffy.social/files/3d185b98-c1fe-474e-b90e-7c5941e8ae0e",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "nya_n",
+            "imageURL": "https://fluffy.social/files/a35c3fe6-9388-45cb-9e9c-afe31214a840",
+            "aliases": [
+            "nyaan"
+            ]
+        },
+        {
+            "shortcode": "nya_",
+            "imageURL": "https://fluffy.social/files/8065f455-d044-4f51-9c8c-afd729bbc1b2",
+            "aliases": [
+            "nyaa"
+            ]
+        },
+        {
+            "shortcode": "nyaaa",
+            "imageURL": "https://fluffy.social/files/b369ed92-c53d-41c5-bb81-cde4a1e079bf",
+            "aliases": [
+            "nya--"
+            ]
+        },
+        {
+            "shortcode": "nyaaa_orange",
+            "imageURL": "https://fluffy.social/files/e31ca64c-0015-4870-8bb3-c21b89397dae",
+            "aliases": [
+            "nya--"
+            ]
+        },
+        {
+            "shortcode": "chinchin",
+            "imageURL": "https://fluffy.social/files/f57ae198-474f-4752-84f6-dfe8c1aee48a",
+            "aliases": [
+            "tintin"
+            ]
+        },
+        {
+            "shortcode": "edamame",
+            "imageURL": "https://fluffy.social/files/629f2213-46c0-4bb4-b18d-0a9252c293ca",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "endou_mame",
+            "imageURL": "https://fluffy.social/files/c4e564f3-279a-47c4-8b5c-ad6c402b9877",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kao_ga_yosugi",
+            "imageURL": "https://fluffy.social/files/ad1c89cd-6551-4774-aa38-ee4ade118eb4",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "score_65535",
+            "imageURL": "https://fluffy.social/files/400b05c1-1451-45ce-ab95-8372d8b54b3c",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "ojiichan",
+            "imageURL": "https://fluffy.social/files/ebb9c4fe-0261-4781-b256-6d9320b717e1",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kowai",
+            "imageURL": "https://fluffy.social/files/cb045ff5-50bf-4f68-b847-11ff4d0492e4",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "imasugu",
+            "imageURL": "https://fluffy.social/files/ac9ea0af-89a8-40d3-a66c-c3b92ce0fa9d",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "boron",
+            "imageURL": "https://fluffy.social/files/125ba409-6a0e-4db1-a3e3-3477f3b9cb67",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "tabunne",
+            "imageURL": "https://fluffy.social/files/6555ee6e-ba5d-4001-b38a-90b26644cd58",
+            "aliases": [
+            "tabunne"
+            ]
+        },
+        {
+            "shortcode": "honmaya",
+            "imageURL": "https://fluffy.social/files/0fc1c081-3a4b-421c-a27b-db813a2aa0a9",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kusa",
+            "imageURL": "https://fluffy.social/files/621ea0c2-0007-4382-8863-38d2597113f2",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "t_piropiro",
+            "imageURL": "https://fluffy.social/files/b97713f6-a95c-4735-90e1-e5e768c1b555",
+            "aliases": [
+            "animated"
+            ]
+        },
+        {
+            "shortcode": "sonnakoto_itte_iinoka",
+            "imageURL": "https://fluffy.social/files/16b729ce-736c-4934-b649-1c7aab9db005",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "mayonnaisekaketeagemashoune",
+            "imageURL": "https://fluffy.social/files/efb7e634-421d-40d6-9d66-d20af94b9233",
+            "aliases": []
+        },
+        {
+            "shortcode": "supiritasu_irete_agemashoune",
+            "imageURL": "https://fluffy.social/files/55a5db50-6deb-46b5-b564-282809e5fb0a",
+            "aliases": []
+        },
+        {
+            "shortcode": "beroberoberobero",
+            "imageURL": "https://fluffy.social/files/5dbb33dc-780f-410d-9ba7-ea8e3d7e1863",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "ohayougozaimasu",
+            "imageURL": "https://fluffy.social/files/a161ea51-c4d5-47af-b47a-8508fb9cb7f2",
+            "aliases": [
+            "animated",
+            "おはようございます"
+            ]
+        },
+        {
+            "shortcode": "syosetsu",
+            "imageURL": "https://fluffy.social/files/ea7d3a9d-bd7e-4011-b26f-1fdcfeea63b4",
+            "aliases": [
+            "shosetsu"
+            ]
+        },
+        {
+            "shortcode": "matteta",
+            "imageURL": "https://fluffy.social/files/26ceb853-2251-4614-b57d-485a02f6546a",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kouiunomoarunoka",
+            "imageURL": "https://fluffy.social/files/ae448c6c-d6ff-4b25-bbda-d2b5e915108a",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "ore",
+            "imageURL": "https://fluffy.social/files/0cb90f6d-9746-4293-9fae-64fca24879fc",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "saiko",
+            "imageURL": "https://fluffy.social/files/3ecf5eea-8265-40d2-aefd-66a5c0d2d59d",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "done",
+            "imageURL": "https://fluffy.social/files/34afc304-9d61-4764-b0e2-81f0773db7d3",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "oremooremo",
+            "imageURL": "https://fluffy.social/files/5be41698-81e0-4006-b911-d593bbe8fa91",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "big",
+            "imageURL": "https://fluffy.social/files/1fccbf2c-a6bb-4651-8de3-d523c750e1f0",
+            "aliases": [
+            "デカい",
+            "big",
+            "_wide",
+            "dekai",
+            "でかい"
+            ]
+        },
+        {
+            "shortcode": "small",
+            "imageURL": "https://fluffy.social/files/a7487be8-4aff-43b5-a8db-ff4e435234ae",
+            "aliases": [
+            "小さい",
+            "ちいさい"
+            ]
+        },
+        {
+            "shortcode": "gogochance_premium_kira",
+            "imageURL": "https://fluffy.social/files/9a5ba04c-d796-42cb-af23-078cd3ce1f9b",
+            "aliases": [
+            "",
+            "animated"
+            ]
+        },
+        {
+            "shortcode": "soudasouda",
+            "imageURL": "https://fluffy.social/files/925d40fd-cc11-4492-a077-adb26b737b29",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "oyasumi",
+            "imageURL": "https://fluffy.social/files/89ee450c-5f42-4b23-b317-076be0dffb85",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "pakupakudesuwa",
+            "imageURL": "https://fluffy.social/files/27ead021-042f-4ad4-a062-15c4dbff5dcd",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "hosii",
+            "imageURL": "https://fluffy.social/files/6e79c602-3592-4c1f-8b5f-dc39b905a493",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "naruhodofes",
+            "imageURL": "https://fluffy.social/files/2e0dd6d4-9eef-4399-9e7f-2818ac8fff38",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "bokuotabeteiiyo",
+            "imageURL": "https://fluffy.social/files/8b078378-abdd-4ac7-b314-988d9e9daaba",
+            "aliases": [
+            "_wide",
+            "bokuwotabeteiiyo",
+            "ぼくをたべていいよ",
+            "vore"
+            ]
+        },
+        {
+            "shortcode": "tsuyoi",
+            "imageURL": "https://fluffy.social/files/bd5abf87-73d4-4f43-b0b1-597a697ff144",
+            "aliases": [
+            "tuyoi"
+            ]
+        },
+        {
+            "shortcode": "sorehadoukana",
+            "imageURL": "https://fluffy.social/files/40eade75-b282-4dc4-bbe6-7686e46ba86c",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "sorena",
+            "imageURL": "https://fluffy.social/files/7f2a479e-464b-40e4-b807-57ea215c65b0",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "usonoaji",
+            "imageURL": "https://fluffy.social/files/13adf243-46f1-4af7-ac4d-4b4ca171d0fa",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "tonk",
+            "imageURL": "https://fluffy.social/files/webpublic-954f6eca-dcb4-43d2-9235-1b39753a3a1d",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "reaction_shooting",
+            "imageURL": "https://fluffy.social/files/fd3d88ad-a632-477e-ba0a-30ec5a35bd41",
+            "aliases": [
+            "riakushon"
+            ]
+        },
+        {
+            "shortcode": "tigaimasu",
+            "imageURL": "https://fluffy.social/files/5710eefe-606f-4134-afd7-0d49f2ee33bb",
+            "aliases": [
+            "chigaimasu",
+            "chigau"
+            ]
+        },
+        {
+            "shortcode": "soudesu",
+            "imageURL": "https://fluffy.social/files/4a77c209-6d97-4355-be50-f0d089947d35",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "iine",
+            "imageURL": "https://fluffy.social/files/5a43ad41-5630-43c5-9155-47eccd0d41ab",
+            "aliases": [
+            "good"
+            ]
+        },
+        {
+            "shortcode": "tasukarufes",
+            "imageURL": "https://fluffy.social/files/e0c7bbd3-f9e3-4751-8243-e84c4d651965",
+            "aliases": [
+            "matsuri",
+            "maturi"
+            ]
+        },
+        {
+            "shortcode": "souiuhimoaru",
+            "imageURL": "https://fluffy.social/files/1f50a926-bf80-443c-b8bb-41ff5d7e1221",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "tasikani",
+            "imageURL": "https://fluffy.social/files/a6f73e04-e69b-421d-9d8f-2751fca04e13",
+            "aliases": [
+            "tashikani"
+            ]
+        },
+        {
+            "shortcode": "mofumofuda",
+            "imageURL": "https://fluffy.social/files/webpublic-e9886198-979d-43cb-b751-2f133f9bd483",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "tensaiarawaru",
+            "imageURL": "https://fluffy.social/files/c0ddde84-6306-4ce7-880f-f1c3d34b4abf",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "watakushidattesoudesuwa",
+            "imageURL": "https://fluffy.social/files/e19f9930-a984-4af6-8384-0c06ad9012bd",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "tikutiku_kotoba",
+            "imageURL": "https://fluffy.social/files/530709d5-cb0b-4856-98a3-41354d88e713",
+            "aliases": [
+            "chiku"
+            ]
+        },
+        {
+            "shortcode": "sukebe",
+            "imageURL": "https://fluffy.social/files/6d19b80d-4db4-4871-9613-be1ee7b4a3d9",
+            "aliases": [
+            "",
+            "_wide"
+            ]
+        },
+        {
+            "shortcode": "oisuu",
+            "imageURL": "https://fluffy.social/files/webpublic-7f70aad0-9fd6-4024-ab94-e5e2d9db16ec",
+            "aliases": [
+            "_wide",
+            "_pano",
+            "おいす"
+            ]
+        },
+        {
+            "shortcode": "wanpuppu",
+            "imageURL": "https://fluffy.social/files/9b46ee7c-ba1f-4aad-b5ad-4a785b019d15",
+            "aliases": [
+            "",
+            "_wide"
+            ]
+        },
+        {
+            "shortcode": "wakaranai07",
+            "imageURL": "https://fluffy.social/files/eb2a513a-3952-47ec-bb4c-0d424577dbba",
+            "aliases": [
+            "?",
+            "question",
+            "hatena",
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "hayakunero",
+            "imageURL": "https://fluffy.social/files/webpublic-8377ef31-64bc-48d9-b576-4e05f3ef09a9",
+            "aliases": [
+            "",
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "eltultultu",
+            "imageURL": "https://fluffy.social/files/webpublic-745980c6-2300-4150-a3ec-b09464520d24",
+            "aliases": [
+            "",
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "yoyuu",
+            "imageURL": "https://fluffy.social/files/webpublic-33f852ad-0832-4768-99a2-262c58763661",
+            "aliases": [
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "okaeri",
+            "imageURL": "https://fluffy.social/files/webpublic-79e6dac8-906d-44ca-a575-eca95419d2d6",
+            "aliases": [
+            "Pano",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "souomottakoto_ichidohaarimasuyone",
+            "imageURL": "https://fluffy.social/files/fdbd77c6-c21a-4faf-977c-b9ce4480f207",
+            "aliases": [
+            "_wide"
+            ]
+        },
+        {
+            "shortcode": "odaijini",
+            "imageURL": "https://fluffy.social/files/webpublic-bbc36e47-43ba-4bae-adb6-54056bb40de0",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "jisseki_kaijyo",
+            "imageURL": "https://fluffy.social/files/91277026-17b4-43ed-a1d2-ccb2114edde8",
+            "aliases": []
+        },
+        {
+            "shortcode": "wanwano",
+            "imageURL": "https://fluffy.social/files/webpublic-74b0b038-f1de-4ca2-8173-b3b722dcd21e",
+            "aliases": [
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "natsukashii",
+            "imageURL": "https://fluffy.social/files/c26b9d47-7519-497d-a692-fc598a9f9fe4",
+            "aliases": []
+        },
+        {
+            "shortcode": "oyasumi2",
+            "imageURL": "https://fluffy.social/files/webpublic-16a9941f-b63a-46f4-b62b-e82edf1bdcbf",
+            "aliases": [
+            "おｙ",
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "closeyoureyes",
+            "imageURL": "https://fluffy.social/files/webpublic-bb14d1f0-4122-4d80-8418-5063f21e98d7",
+            "aliases": [
+            "",
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "mokumoku",
+            "imageURL": "https://fluffy.social/files/webpublic-22cdda05-e924-4502-bf08-92e25fdbd680",
+            "aliases": [
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "sagyosuruzo",
+            "imageURL": "https://fluffy.social/files/ebb33621-2447-4ed3-8bc3-16e85e20a9bf",
+            "aliases": [
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "altuarararalaaala",
+            "imageURL": "https://fluffy.social/files/webpublic-ba9e11f4-62bf-4b57-af3d-22e1be83c67e",
+            "aliases": [
+            "_wide",
+            "あｘ",
+            "あｌ",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "dareyosononna",
+            "imageURL": "https://fluffy.social/files/0842912a-15ca-47a2-820f-308ee3db7a60",
+            "aliases": [
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "kowashita",
+            "imageURL": "https://fluffy.social/files/f43f08e4-bc85-4f46-bdd7-e67282088191",
+            "aliases": [
+            "animated",
+            "kowasita"
+            ]
+        },
+        {
+            "shortcode": "kemoshotada",
+            "imageURL": "https://fluffy.social/files/webpublic-06c8af51-bc81-4e51-af5c-607c04c17d6d",
+            "aliases": [
+            "",
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "gatimutida",
+            "imageURL": "https://fluffy.social/files/webpublic-b4ac6698-33b7-4f73-8b78-93457b3a69be",
+            "aliases": [
+            "gachi",
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "sasupano",
+            "imageURL": "https://fluffy.social/files/cfcb0da4-699a-4c8e-ad18-bbefde7c39bf",
+            "aliases": [
+            "sasuga_pannosan"
+            ]
+        },
+        {
+            "shortcode": "ofutyobettositatefuwomabugaddositerittonisuruyousu",
+            "imageURL": "https://fluffy.social/files/54a5c5f1-4acc-492c-af39-c70746b193fb",
+            "aliases": [
+            "ohutyo",
+            "ohucho",
+            "_wide"
+            ]
+        },
+        {
+            "shortcode": "otete",
+            "imageURL": "https://fluffy.social/files/cf1cf6dd-8784-49d4-a76b-38922fefcec0",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "yosasou",
+            "imageURL": "https://fluffy.social/files/60fc3086-9396-47fc-bab4-2ab2398088a4",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "ganbatte",
+            "imageURL": "https://fluffy.social/files/32230242-d5df-4d43-b835-bbe8e6b682a9",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "otsukaresamadesu_kira",
+            "imageURL": "https://fluffy.social/files/4df564ad-9033-4651-be5f-47e95b0bdff1",
+            "aliases": [
+            "otu"
+            ]
+        },
+        {
+            "shortcode": "umasou",
+            "imageURL": "https://fluffy.social/files/c8754871-b7ba-4a0c-bff5-6434671e8ec3",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "iihanasi",
+            "imageURL": "https://fluffy.social/files/faf37f63-85b6-41e9-8370-700c2d6ba453",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kono_kasi_watasi_no_kotoda",
+            "imageURL": "https://fluffy.social/files/6f60182d-b666-4487-b1ab-377710389699",
+            "aliases": [
+            "こｎ",
+            "_wide",
+            "kashi"
+            ]
+        },
+        {
+            "shortcode": "utaitai",
+            "imageURL": "https://fluffy.social/files/50bbaea9-a31b-4917-8ee0-77741c301538",
+            "aliases": [
+            "うｔ",
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "dousite",
+            "imageURL": "https://fluffy.social/files/65c6210d-332e-4812-a1e5-b813bd697637",
+            "aliases": [
+            "どう",
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "nande",
+            "imageURL": "https://fluffy.social/files/aef76546-9fe2-4d7e-b433-a54bdb57d6e3",
+            "aliases": [
+            "なｎ",
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "naze",
+            "imageURL": "https://fluffy.social/files/93e6a69d-f373-45e1-8147-451dbbc268b9",
+            "aliases": [
+            "",
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "koresuki",
+            "imageURL": "https://fluffy.social/files/e97c1e04-6c34-49bf-aaf0-1c34700feeba",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "koremogeijutsudaro",
+            "imageURL": "https://fluffy.social/files/f9a24d03-6e4f-4fb5-b86a-dad51b7ddc61",
+            "aliases": [
+            "koremougeizyutudaro",
+            "geijutsu",
+            "geijutu"
+            ]
+        },
+        {
+            "shortcode": "sorehasoretoshite",
+            "imageURL": "https://fluffy.social/files/779cfdfe-3b63-40db-ae68-a2d47bd437a2",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kattare",
+            "imageURL": "https://fluffy.social/files/webpublic-8ab77a96-dce2-4384-a652-8b2e5edacb23",
+            "aliases": [
+            "",
+            "_wide"
+            ]
+        },
+        {
+            "shortcode": "hosii_5000",
+            "imageURL": "https://fluffy.social/files/5b5db5ae-e02c-4b09-b54b-5175f1a67dcf",
+            "aliases": [
+            "",
+            "_wide"
+            ]
+        },
+        {
+            "shortcode": "youcancontribute",
+            "imageURL": "https://fluffy.social/files/ea5962ff-4c1f-4b33-ab94-a6e7d47f3e75",
+            "aliases": [
+            "",
+            "_wide"
+            ]
+        },
+        {
+            "shortcode": "chottomateya",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-5809b8c9-de91-47d6-9af4-7056cce63924.png",
+            "aliases": [
+            "ちょｔ",
+            "tyotto",
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "chottomatei",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-dee97efe-33d7-401e-afff-969ec133b8d2.png",
+            "aliases": [
+            "ちょｔ",
+            "tyo",
+            "_wide",
+            "_pano",
+            ""
+            ]
+        },
+        {
+            "shortcode": "asigamoupanpan",
+            "imageURL": "https://storage.fluffy.social/files/0050f878-4faf-4bda-8e5d-cff30e03a983.png",
+            "aliases": [
+            "あｓ",
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "ponponpain",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-b66e364e-56af-4f77-864d-e7f8a82b4916.png",
+            "aliases": [
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "kininaru",
+            "imageURL": "https://storage.fluffy.social/files/189c1c86-4f86-4fe6-b777-2bbbe464669d.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "moukon",
+            "imageURL": "https://storage.fluffy.social/files/49693637-6def-4ab1-ba58-8b2cbb4facf5.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "imaokita",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-16822182-ca3f-4cfa-b523-bd7abdd673f6.png",
+            "aliases": [
+            "_wide",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "ohayow",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-ba0f5ae9-78c6-418c-9ebc-0238ff315c47.png",
+            "aliases": [
+            "_wide",
+            "おｈ",
+            "_pano",
+            "おはよー"
+            ]
+        },
+        {
+            "shortcode": "ohayo2",
+            "imageURL": "https://storage.fluffy.social/files/5626d206-5491-413f-bc0a-2eff106d7518.png",
+            "aliases": [
+            "_wide",
+            "おｈ",
+            "_pano",
+            "おはよ"
+            ]
+        },
+        {
+            "shortcode": "suteki",
+            "imageURL": "https://storage.fluffy.social/files/a856c46b-f668-49b6-8e15-7d7451f19f04.png",
+            "aliases": [
+            "すｔ"
+            ]
+        },
+        {
+            "shortcode": "zehi",
+            "imageURL": "https://storage.fluffy.social/files/c7b10bcd-149e-4d6a-870d-e930bd2c7112.png",
+            "aliases": [
+            "ぜｈ"
+            ]
+        },
+        {
+            "shortcode": "hobokamiwaza",
+            "imageURL": "https://storage.fluffy.social/files/b8c17071-1b65-42ff-a130-8f4f86dca471.png",
+            "aliases": [
+            "kamiwaza"
+            ]
+        },
+        {
+            "shortcode": "hotondosagi",
+            "imageURL": "https://storage.fluffy.social/files/49234d80-a28c-496a-af2c-3abeda952f3f.png",
+            "aliases": [
+            "sagi"
+            ]
+        },
+        {
+            "shortcode": "yes",
+            "imageURL": "https://storage.fluffy.social/files/d213e4a7-d705-4b1c-9cfc-781d530699ab.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "hai",
+            "imageURL": "https://storage.fluffy.social/files/5c82ec01-7b37-4c46-b4b7-1d0cf8903f21.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "iie",
+            "imageURL": "https://storage.fluffy.social/files/ac315caf-7f27-4966-8a4d-44900229c5ce.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "chigaukamo",
+            "imageURL": "https://storage.fluffy.social/files/679c2bf7-3cf0-4a33-a644-c2852933e8df.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "ebikkurihatena",
+            "imageURL": "https://storage.fluffy.social/files/c43f6df4-bb76-4a18-a081-7e27f6d9561b.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "shinwa",
+            "imageURL": "https://storage.fluffy.social/files/e04b9be3-7110-4690-973d-abe10ece386a.png",
+            "aliases": [
+            "sinwa"
+            ]
+        },
+        {
+            "shortcode": "kamino_shinwa",
+            "imageURL": "https://storage.fluffy.social/files/250cca28-fe32-4473-886b-c80f8cdc53a1.png",
+            "aliases": [
+            "sinwa"
+            ]
+        },
+        {
+            "shortcode": "kamino_shinwa_compact",
+            "imageURL": "https://storage.fluffy.social/files/6a014f5e-69e0-47ad-bf16-e7d3f2c7c4f5.png",
+            "aliases": [
+            "sinwa"
+            ]
+        },
+        {
+            "shortcode": "gaochiteru",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-37e4aa06-c65a-4c0a-a17e-276404b42643.png",
+            "aliases": [
+            "_pano",
+            "ochiteru"
+            ]
+        },
+        {
+            "shortcode": "dekiru",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-2c740d3d-94d3-419c-a625-b6fcd08e1ff1.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "omaedattanoka",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-321a07a9-a1f5-49aa-858e-1da0897d69c7.png",
+            "aliases": [
+            "_pano",
+            "gon"
+            ]
+        },
+        {
+            "shortcode": "kyohakemokafue",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-122e6fd4-a302-4d37-bebc-446e07319977.png",
+            "aliases": [
+            "_pano",
+            "kemocafe",
+            "kemokafe",
+            "today_is_kemocafe"
+            ]
+        },
+        {
+            "shortcode": "youknowforsearch",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-53a50abc-57a8-42b8-bac2-78e00c92eaff.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "otsukaresama1",
+            "imageURL": "https://storage.fluffy.social/files/f2041edc-150d-4654-84e4-fe958e48daba.png",
+            "aliases": [
+            "_pano",
+            "おつかれさま",
+            "otukaresama"
+            ]
+        },
+        {
+            "shortcode": "ganbatta",
+            "imageURL": "https://storage.fluffy.social/files/f6bc581c-731f-4eeb-83d7-74988515af87.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "otsukaresama2",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-a53ff05f-29b2-45ff-ac12-d064cf8f0036.png",
+            "aliases": [
+            "otukaresama",
+            "おつかれさま！"
+            ]
+        },
+        {
+            "shortcode": "higi",
+            "imageURL": "https://storage.fluffy.social/files/e6ead3a0-fd18-4647-af5e-3e425a72470b.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "pllll",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-71aa8a68-c0e8-465b-8f7c-dcdf36ea0902.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "haiheishadegozaimasu",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-14a67d92-1d28-4c28-9568-dcf72aa5eea1.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "hayakukoreninaritai",
+            "imageURL": "https://storage.fluffy.social/files/adc722c2-ebfb-428c-8722-f19880991f2e.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "subetehakaisimasune",
+            "imageURL": "https://storage.fluffy.social/files/ec4a56d7-f177-4b5c-aa14-8913be846e14.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "siranakatta",
+            "imageURL": "https://storage.fluffy.social/files/5be917c9-8bef-4c0c-9abf-06622268f102.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "accesspoint",
+            "imageURL": "https://storage.fluffy.social/files/f0e18921-acad-434d-9a8d-124ec27e2b5e.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "noemojihoshii",
+            "imageURL": "https://storage.fluffy.social/files/29fe7177-11b2-45eb-b686-e18ffd2ef643.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "kakkoii",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-9a4d1b91-1c22-475b-a514-3f087753425e.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "kakkee",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-0086285c-ba88-4379-89e6-620461254ca6.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "souiunomoarunoka",
+            "imageURL": "https://storage.fluffy.social/files/62873dea-242f-4c31-8e39-3efd3b764fb0.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "okite",
+            "imageURL": "https://storage.fluffy.social/files/3b37768a-7fab-46f1-bb30-baf246b4361f.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "asa",
+            "imageURL": "https://storage.fluffy.social/files/aef4edff-2bb5-423e-811c-4e2025c2b5ce.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "shunsoku",
+            "imageURL": "https://storage.fluffy.social/files/e0eed3d6-8216-4081-98f2-4a4c7d79278d.png",
+            "aliases": [
+            "syunsoku"
+            ]
+        },
+        {
+            "shortcode": "briefcase_txt",
+            "imageURL": "https://storage.fluffy.social/files/aa8fdef0-535b-4b80-9b3f-60ee75f3264c.png",
+            "aliases": [
+            "buri"
+            ]
+        },
+        {
+            "shortcode": "kan1",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-23e5f0f2-be3c-4ef8-95a2-a2314346fb0b.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "kan2",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-13406b76-0e9f-435b-adad-4370eb5f6d03.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "shinsoku",
+            "imageURL": "https://storage.fluffy.social/files/eba1e541-52c0-4deb-86c7-87b0353a5275.png",
+            "aliases": [
+            "sinsoku"
+            ]
+        },
+        {
+            "shortcode": "launch",
+            "imageURL": "https://storage.fluffy.social/files/2bf301b6-3231-4f66-aa2c-dded898d3006.png",
+            "aliases": [
+            "lanch",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "singularity",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-c7796080-730f-4b01-8f74-5873094550cf.png",
+            "aliases": [
+            "_pano",
+            "singularity"
+            ]
+        },
+        {
+            "shortcode": "sasutoto",
+            "imageURL": "https://storage.fluffy.social/files/537f28a1-d8f9-4e8e-b830-44df49087810.png",
+            "aliases": [
+            "",
+            "ととがんま"
+            ]
+        },
+        {
+            "shortcode": "sasutote",
+            "imageURL": "https://storage.fluffy.social/files/00aa5e7a-6aa5-4d56-9b0b-2ee743c7bce3.png",
+            "aliases": [
+            "",
+            "ととがんま"
+            ]
+        },
+        {
+            "shortcode": "koyanpuppu",
+            "imageURL": "https://storage.fluffy.social/files/aef6ab4d-3359-4c9f-b9c7-1221c8446490.png",
+            "aliases": [
+            "kolyanpuppu",
+            "koxyanpuppu"
+            ]
+        },
+        {
+            "shortcode": "waon_shin",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-f34b4563-afcf-44f3-8936-90d3b829388f.png",
+            "aliases": [
+            "_pano",
+            "waon_kami"
+            ]
+        },
+        {
+            "shortcode": "waochan_god",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-b0211c5f-c4b1-45a3-9c5f-8cb709ac22ba.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "demayoukedo",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-2d1aba7a-a48a-4deb-8e4e-92f5e87f250f.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "haiheishadegozaimasu2",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-74594197-d172-40c6-b67c-d36796628290.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "lanchtime",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-7bfb12d6-8eff-417c-8013-d4d9ff120fa6.png",
+            "aliases": [
+            "ろーんちたいむ",
+            "らんちたいむ",
+            "_pano",
+            "lunchtime_typo"
+            ]
+        },
+        {
+            "shortcode": "sumisuko",
+            "imageURL": "https://storage.fluffy.social/files/8dc1275e-ac75-431f-b065-15e7dbd2af07.png",
+            "aliases": [
+            "すみすこ"
+            ]
+        },
+        {
+            "shortcode": "sukosumi",
+            "imageURL": "https://storage.fluffy.social/files/b966a4b4-bb0b-4828-8c1a-dad93c7d5d18.png",
+            "aliases": [
+            "すこすみ"
+            ]
+        },
+        {
+            "shortcode": "shousaikibonnu",
+            "imageURL": "https://storage.fluffy.social/files/d8d58991-58e7-4400-8da1-fc4f5d4e23ea.png",
+            "aliases": [
+            "syousaikibonnu",
+            "しょうさいきぼんぬ",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "kwsk1",
+            "imageURL": "https://storage.fluffy.social/files/cdda93f4-7458-4289-bc1f-91c7adb9da29.png",
+            "aliases": [
+            "kuwashiku",
+            "kuwasiku",
+            "くわしく",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "naruhodona",
+            "imageURL": "https://storage.fluffy.social/files/ca574274-be62-4c8b-9851-13f535da349e.png",
+            "aliases": [
+            "なるほどな",
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "soukamo2",
+            "imageURL": "https://storage.fluffy.social/files/e6d485b6-b3e4-4af1-b493-ba78a3e7332f.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "soukamo",
+            "imageURL": "https://storage.fluffy.social/files/7fb3b129-1b43-4198-ad91-8a68de03e19e.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "etchida",
+            "imageURL": "https://storage.fluffy.social/files/4685ed4d-3fe7-4ce1-8ad0-4ed4fe1b96e7.png",
+            "aliases": [
+            "_pano",
+            "etti",
+            "えっち"
+            ]
+        },
+        {
+            "shortcode": "etchida2",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-ff4a440f-2be6-465a-8d54-c2937d292a7b.png",
+            "aliases": [
+            "_pano",
+            "etti",
+            "えっち"
+            ]
+        },
+        {
+            "shortcode": "greatest_of_all_time",
+            "imageURL": "https://storage.fluffy.social/files/1ea8e32a-ee15-4e84-b1f2-8d324afd39d5.png",
+            "aliases": [
+            "goat",
+            "_pano",
+            "yagi"
+            ]
+        },
+        {
+            "shortcode": "p_chottomatteanataimaetti",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-7756060a-4e88-455b-96f5-bb198fe7c921.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "doyukoto",
+            "imageURL": "https://storage.fluffy.social/files/90dff617-a9d9-429a-b072-ec3b0fba22ea.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "imananiironopantsuhaiteruno",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-5745eb23-026a-4306-8441-a6ee5b6b3f3f.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "imananiironoshitagihaiteruno",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-b05719fd-c3df-48f7-977c-7408bcc8a32b.png",
+            "aliases": [
+            "_pano"
+            ]
+        },
+        {
+            "shortcode": "sugokutesugoi",
+            "imageURL": "https://storage.fluffy.social/files/05294cb1-5831-41c3-a6b5-59728b7f70e4.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "erakuteerai",
+            "imageURL": "https://storage.fluffy.social/files/4236440a-3368-4a25-853a-351aa9b58665.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "datoshitemodayo",
+            "imageURL": "https://storage.fluffy.social/files/d628debe-3649-447f-be8c-424298d7a544.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "nanndakeni",
+            "imageURL": "https://storage.fluffy.social/files/59f71de9-a671-40d6-84e2-8e98f043903d.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "naisutorai",
+            "imageURL": "https://storage.fluffy.social/files/7ca8926f-9938-4ce7-8d89-fa5b5e4baafd.png",
+            "aliases": [
+            "nicetry"
+            ]
+        },
+        {
+            "shortcode": "tehe",
+            "imageURL": "https://storage.fluffy.social/files/e63a2929-325d-4fe3-bc76-fbffc4c784a0.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "tukuttewakuwaku",
+            "imageURL": "https://storage.fluffy.social/files/011eb925-9228-419e-9ff5-5652fc85d5c6.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "erokuteeroi",
+            "imageURL": "https://storage.fluffy.social/files/6abe00f4-9435-4359-a8e3-b9ab4db2e653.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "iina",
+            "imageURL": "https://storage.fluffy.social/files/e93b3e20-c505-4525-9071-a20731ea5ef1.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "asus",
+            "imageURL": "https://storage.fluffy.social/files/5a066c3e-f791-4d08-b1a9-2b5eb43925a4.png",
+            "aliases": [
+            "あすーす",
+            "えいさす",
+            "えいすーす"
+            ]
+        },
+        {
+            "shortcode": "gif",
+            "imageURL": "https://storage.fluffy.social/files/1309a62c-c4ff-40e9-9b51-4f829ba75776.png",
+            "aliases": [
+            "じふ",
+            "ぎふ"
+            ]
+        },
+        {
+            "shortcode": "asasu",
+            "imageURL": "https://storage.fluffy.social/files/13188ab1-9e06-4693-967d-4b7ccead5c93.png",
+            "aliases": [
+            "asus"
+            ]
+        },
+        {
+            "shortcode": "asu_su",
+            "imageURL": "https://storage.fluffy.social/files/7a4da9cf-b5b1-4bea-adfe-d8b4fe14bc4b.png",
+            "aliases": [
+            "asus"
+            ]
+        },
+        {
+            "shortcode": "eisasu",
+            "imageURL": "https://storage.fluffy.social/files/247e8efe-3d6c-4f2b-9726-7ea6a6dc4b4e.png",
+            "aliases": [
+            "asus"
+            ]
+        },
+        {
+            "shortcode": "gifu",
+            "imageURL": "https://storage.fluffy.social/files/672a1566-d789-4318-946a-045d7db84b17.png",
+            "aliases": [
+            "gif"
+            ]
+        },
+        {
+            "shortcode": "anataima_unchitte_iimashitane",
+            "imageURL": "https://storage.fluffy.social/files/84224b0f-c034-4165-8134-50c6ee6731b8.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "imasugu_sushi",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-c718435a-ea88-4410-bfa8-e9c72240e785.png",
+            "aliases": [
+            "sushi"
+            ]
+        },
+        {
+            "shortcode": "imasugu_yakiniku",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-92c3afb6-197d-4863-b8c4-d21fe6a656f4.png",
+            "aliases": [
+            "yakiniku"
+            ]
+        },
+        {
+            "shortcode": "dore_",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-68aad32f-7ca9-44f2-b150-37cd9980234c.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "orikemonisuruzo",
+            "imageURL": "https://storage.fluffy.social/files/250b42fa-7295-4be1-9ee8-352887550a9b.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "dragonnisuruzo",
+            "imageURL": "https://storage.fluffy.social/files/5b530c57-37c1-40e2-a17c-bb7340ebb65b.png",
+            "aliases": [
+            "doragon"
+            ]
+        },
+        {
+            "shortcode": "ookaminisuruzo",
+            "imageURL": "https://storage.fluffy.social/files/632f6323-5f38-40e6-8525-cfb9a78c17ea.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kemononisuruzo",
+            "imageURL": "https://storage.fluffy.social/files/58f900ea-7b5b-46c6-b320-4fcc45f9ce8b.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "yosonoonnna",
+            "imageURL": "https://storage.fluffy.social/files/fea29f32-eebc-4a82-acf8-6580b13e2557.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "taiousimasu",
+            "imageURL": "https://storage.fluffy.social/files/ea03ee6b-a9c0-4cdd-b748-58441a40dff2.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "daitaiatteru",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-e17cf93c-9a38-4c87-9041-2f0b5ea0436d.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "taiousuruzo",
+            "imageURL": "https://storage.fluffy.social/files/f91d7edd-505f-4114-bfb4-514d82958596.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "keikenchiup",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-03f2ed1b-de80-425f-b294-a0a722efb126.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "bochibochi_ikoune",
+            "imageURL": "https://storage.fluffy.social/files/4cec7abf-a8d2-44a2-b7ec-0bf6ee50b83c.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "rikaigahayai",
+            "imageURL": "https://storage.fluffy.social/files/37bdf9c6-c1c6-4fc5-b48e-21ebffa09024.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kamino_super_shinwa",
+            "imageURL": "https://storage.fluffy.social/files/ae01797e-0449-4a40-bdaa-055c8622c600.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "super_shinwa",
+            "imageURL": "https://storage.fluffy.social/files/ecc123d8-4d60-4474-a381-6f848dc33910.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "souiunomo_arunda",
+            "imageURL": "https://storage.fluffy.social/files/a4597456-86b6-4d83-97a1-63bfe625bf70.png",
+            "aliases": [
+            "arunda"
+            ]
+        },
+        {
+            "shortcode": "arunda",
+            "imageURL": "https://storage.fluffy.social/files/c6256d43-9dc5-42e6-9904-6fa20eec40fb.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "teinei",
+            "imageURL": "https://storage.fluffy.social/files/caaffc94-908f-46df-bc04-978673460308.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "gomamayo",
+            "imageURL": "https://storage.fluffy.social/files/1db40b07-e09d-44fd-ac7a-83f8fe147b86.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "gomamayo_sarada",
+            "imageURL": "https://storage.fluffy.social/files/d9a7e129-7319-42b1-95da-a1ac408dd752.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "konokashiwatashinokotoda_karaoke",
+            "imageURL": "https://storage.fluffy.social/files/a22b5757-7484-48a3-9caa-4bbb3e9cecd6.png",
+            "aliases": [
+            "このかしわたしのことだ"
+            ]
+        },
+        {
+            "shortcode": "marunominisuruzo",
+            "imageURL": "https://storage.fluffy.social/files/6cb9e59b-0e7c-44c1-b9be-2935a86fad76.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "sugoi",
+            "imageURL": "https://storage.fluffy.social/files/71d8053c-3ea4-4dec-a77b-5e1fb1f16cc3.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "sugo",
+            "imageURL": "https://storage.fluffy.social/files/37ec0edc-19f0-49d3-abb4-13e19256c19a.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "mog",
+            "imageURL": "https://storage.fluffy.social/files/a3e6d3be-0d52-4520-aaff-9ab0ba691ad6.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "godofstory",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-b2351f1b-b449-442e-9e2f-972466ca6103.png",
+            "aliases": [
+            "godofstory"
+            ]
+        },
+        {
+            "shortcode": "godofgodstory",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-57b8e2d2-7fdf-42ab-9220-c16fa6bbe71d.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "mythologyofgod",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-26a5af74-9cac-4389-9054-c7ab4a17a612.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "oisisou2",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-a45a33a6-9f92-4f63-a670-17e63292a91c.png",
+            "aliases": [
+            "おいしそう"
+            ]
+        },
+        {
+            "shortcode": "henpin",
+            "imageURL": "https://storage.fluffy.social/files/47c56d09-34cb-4230-9707-b89d2e33e6f8.png",
+            "aliases": [
+            "へんぴん"
+            ]
+        },
+        {
+            "shortcode": "inthebad",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-df3163ad-cfda-4033-9d22-9cd162ee6a69.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kimattekita",
+            "imageURL": "https://storage.fluffy.social/files/209c2fa6-bdc6-4cb9-9e58-627a8b7d36f7.png",
+            "aliases": [
+            "きまってきた"
+            ]
+        },
+        {
+            "shortcode": "omae",
+            "imageURL": "https://storage.fluffy.social/files/6d4b5ee5-30d3-43dd-9f69-1c99185b0c88.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "jikoshoukai",
+            "imageURL": "https://storage.fluffy.social/files/0cb0dcf8-6253-42f6-b543-c01a550ef321.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kokoa_gimme_bankaccount_info",
+            "imageURL": "https://storage.fluffy.social/files/738fed74-afef-4348-bc41-f7cd59f9abc2.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "gehinsugirukotobahaauto",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-447c4d86-e0a2-4f9b-b3d9-37b80ae8e369.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "super_reaction",
+            "imageURL": "https://storage.fluffy.social/files/0a5d4c3a-42a1-4be3-bcc0-8b06b3ad1169.webp",
+            "aliases": [
+            "すーぱーりあくしょん"
+            ]
+        },
+        {
+            "shortcode": "yesdenki",
+            "imageURL": "https://storage.fluffy.social/files/ccde1c9e-c401-4945-bfb2-7bf1d9be7ac8.png",
+            "aliases": [
+            "iesudenki",
+            "いえすでんき"
+            ]
+        },
+        {
+            "shortcode": "chi",
+            "imageURL": "https://storage.fluffy.social/files/6f6cec41-c1fc-4272-8582-3f26aa2a506c.png",
+            "aliases": [
+            "ち"
+            ]
+        },
+        {
+            "shortcode": "goaldenweak",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-16f43669-5089-4a39-874e-9fa1bd9d7a5c.png",
+            "aliases": [
+            "golden_week_typo",
+            "ごーるでんうぃーく_typo"
+            ]
+        },
+        {
+            "shortcode": "soudazo",
+            "imageURL": "https://storage.fluffy.social/files/ec13a829-067e-4838-ad8e-e69ff3056090.png",
+            "aliases": [
+            "そうだぞ"
+            ]
+        },
+        {
+            "shortcode": "deta",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-a83aac37-f0ee-4957-9152-5307a7c77af5.png",
+            "aliases": [
+            "でた"
+            ]
+        },
+        {
+            "shortcode": "imasugu_inu",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-8e58c50e-47b0-4c51-89f0-7634c473d970.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "sokoni_nakereba_naidesune",
+            "imageURL": "https://storage.fluffy.social/files/5ded9d79-b721-421a-aca5-bd096066f8f9.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "sokoni_attemo_naidesune",
+            "imageURL": "https://storage.fluffy.social/files/cbec50cc-5887-4de6-b08c-2d618f8c9b30.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "iinele",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-06185324-c189-4018-bb1e-89cc25da79b8.png",
+            "aliases": [
+            "iinexe",
+            "いいねぇ"
+            ]
+        },
+        {
+            "shortcode": "imasugu_inu2",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-7883f9fa-6cb9-4d74-9330-eb87a379d2ee.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "sagyo",
+            "imageURL": "https://storage.fluffy.social/files/0ceb308a-2d94-4a80-9179-bb524f0dbf19.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "honya",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-8412695d-4a70-4b86-b0aa-99bcef49c874.png",
+            "aliases": [
+            "ほにゃ"
+            ]
+        },
+        {
+            "shortcode": "honyo",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-8d0b03ae-4f11-4424-aafa-eaec91ba2e99.png",
+            "aliases": [
+            "ほにょ"
+            ]
+        },
+        {
+            "shortcode": "yukkuritaimou",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-c0f1b744-0d6a-4e54-bd19-daff89767f58.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "clonerokuromochi",
+            "imageURL": "https://storage.fluffy.social/files/5112a600-6877-46ce-82e8-336545ae8024.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "terawarosu",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-968feb3b-37e4-4fec-87ce-d0615ec43200.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "chmod777",
+            "imageURL": "https://storage.fluffy.social/files/f78bc026-b44c-4465-ae11-4f35328cc8f4.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "tsukinokawarinibatsuwoataeru",
+            "imageURL": "https://storage.fluffy.social/files/aac078c7-a6bf-437b-8711-dbdccdd01ebc.png",
+            "aliases": [
+            "tukinokawarinibatsuwoataeru",
+            "つきのかわりにばつをあたえる"
+            ]
+        },
+        {
+            "shortcode": "zyaa_zyuuka_siro",
+            "imageURL": "https://storage.fluffy.social/files/86d072a2-6b96-4eb0-bae9-a04576e18f5e.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "ike_kemo",
+            "imageURL": "https://storage.fluffy.social/files/3978342d-1f9b-49b2-8304-7d33c4ef3b07.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "kemono_wo_suimasu",
+            "imageURL": "https://storage.fluffy.social/files/05b62b2e-2ed8-4c63-a2a8-7c2546d4a852.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "tyotto_kemono_sutte_kuru",
+            "imageURL": "https://storage.fluffy.social/files/8aa313f5-bd7e-4d40-a9c1-fe5768003d37.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "kitukemo_ha_gouhou",
+            "imageURL": "https://storage.fluffy.social/files/a45d300c-213c-437d-9796-1b2a4413664b.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "omaega_kemono_ni_narundayo",
+            "imageURL": "https://storage.fluffy.social/files/2ebb93be-c1db-4406-a9ac-16cd57b4c257.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "nyaadesuyo",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-fe4da71f-4e28-4ba9-a723-7cc77f8f40b4.png",
+            "aliases": [
+            "にゃあですよ"
+            ]
+        },
+        {
+            "shortcode": "a",
+            "imageURL": "https://storage.fluffy.social/files/09b31769-772d-4d13-b989-931ba5194f3d.png",
+            "aliases": [
+            "あ"
+            ]
+        },
+        {
+            "shortcode": "API",
+            "imageURL": "https://storage.fluffy.social/files/69e5b85f-1172-4e4e-881a-9325a04cce60.png",
+            "aliases": [
+            "api",
+            "あぴ"
+            ]
+        },
+        {
+            "shortcode": "cssisawesome",
+            "imageURL": "https://storage.fluffy.social/files/09b3ef07-8040-4bfd-9bac-33a0253dc8ad.jpg",
+            "aliases": []
+        },
+        {
+            "shortcode": "apiganakunatta",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-d9949e6a-0386-4e6b-bc4a-195e188db3d5.png",
+            "aliases": [
+            "あぴがなくなった"
+            ]
+        },
+        {
+            "shortcode": "arigachi",
+            "imageURL": "https://storage.fluffy.social/files/216c256f-11c1-4cf1-b346-912161739ad6.png",
+            "aliases": [
+            "arigati",
+            "ありがち"
+            ]
+        },
+        {
+            "shortcode": "benkyoninaru",
+            "imageURL": "https://storage.fluffy.social/files/f44c9298-5cdf-4ecf-9964-5726028910d0.png",
+            "aliases": [
+            "benkyouninaru",
+            "べんきょうになる"
+            ]
+        },
+        {
+            "shortcode": "daiji",
+            "imageURL": "https://storage.fluffy.social/files/5b61a6f2-b845-4859-a42d-e58d346d36b5.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "zyuuyou",
+            "imageURL": "https://storage.fluffy.social/files/ae21c47d-5d87-4fc0-beb1-3ca398e59346.png",
+            "aliases": [
+            "じゅうよう",
+            "juyou",
+            "zyuyou"
+            ]
+        },
+        {
+            "shortcode": "oyaoya",
+            "imageURL": "https://storage.fluffy.social/files/23a9bf86-4098-4d73-9a06-582efaca1741.png",
+            "aliases": [
+            "おやおや"
+            ]
+        },
+        {
+            "shortcode": "muzukashiihanashi",
+            "imageURL": "https://storage.fluffy.social/files/0edef764-b369-434f-ac5f-d8775163d6c8.webp",
+            "aliases": [
+            "muzukasiihanasi"
+            ]
+        },
+        {
+            "shortcode": "socialanimal",
+            "imageURL": "https://storage.fluffy.social/files/de5b0b4f-2e1d-437f-bdb6-cb37a8ccc28c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "hidoihanashi",
+            "imageURL": "https://storage.fluffy.social/files/bdae521b-a174-4adb-81cd-4511d3fe22cf.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "totoshin",
+            "imageURL": "https://storage.fluffy.social/files/00e99c6c-2789-4da1-aef3-8f3eb132b1e5.png",
+            "aliases": [
+            "totokami",
+            "toteshin",
+            "totekami",
+            "ととがんま"
+            ]
+        },
+        {
+            "shortcode": "otukarefes",
+            "imageURL": "https://storage.fluffy.social/files/68595dbe-5ddc-4c9a-bfc2-e55216b1df6e.png",
+            "aliases": [
+            "otsukarefes",
+            "matsuri"
+            ]
+        },
+        {
+            "shortcode": "otukaresama",
+            "imageURL": "https://storage.fluffy.social/files/9d81187b-a5f1-4d9b-8070-dd4d2a1f23da.png",
+            "aliases": [
+            "otsukaresama"
+            ]
+        },
+        {
+            "shortcode": "erasugiru",
+            "imageURL": "https://storage.fluffy.social/files/dc757dbd-504c-420e-94a4-296fc9f37e33.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "atsusugiru",
+            "imageURL": "https://storage.fluffy.social/files/8fe568d7-33e2-48d3-809b-1e33b1900f8a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "samusugiru",
+            "imageURL": "https://storage.fluffy.social/files/fa960bd7-6c20-4bef-a047-b1703ede78d9.png",
+            "aliases": [
+            "by",
+            "@@K4IR0"
+            ]
+        },
+        {
+            "shortcode": "tewoageru",
+            "imageURL": "https://storage.fluffy.social/files/09ad04ce-3b60-4aba-b360-a9960834017a.png",
+            "aliases": [
+            "bouryoku"
+            ]
+        },
+        {
+            "shortcode": "okawariitadakerudarouka",
+            "imageURL": "https://storage.fluffy.social/files/21cec2d7-ec3e-4f36-838f-43f80d86cca9.png",
+            "aliases": [
+            "おかわりいただけるだろうか",
+            "daroka"
+            ]
+        },
+        {
+            "shortcode": "owakariitadakerudarouka",
+            "imageURL": "https://storage.fluffy.social/files/9e2ac339-6deb-4148-a8bc-5d7ff4643d98.png",
+            "aliases": [
+            "おわかりいただけるだろうか",
+            "daroka"
+            ]
+        },
+        {
+            "shortcode": "todemoiunodarouka",
+            "imageURL": "https://storage.fluffy.social/files/ec9f3c58-586b-4962-a480-01c0600e5bf7.png",
+            "aliases": [
+            "とでもいうのだろうか",
+            "daroka"
+            ]
+        },
+        {
+            "shortcode": "iftruereturntrue",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-0d16f5f9-9055-462f-9bb0-c15daee5430a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "saikidouhaginnodangan",
+            "imageURL": "https://storage.fluffy.social/files/93973611-da8a-48a5-92de-82bf2c68025b.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "shigoto_suruna",
+            "imageURL": "https://storage.fluffy.social/files/a2577f6b-a228-4dba-94fc-594cad0271c9.png",
+            "aliases": [
+            "sigoto_suruna",
+            "しごとするな"
+            ]
+        },
+        {
+            "shortcode": "torichan",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-07019afd-af34-40f2-bb6b-0ba027783938.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "nekochan",
+            "imageURL": "https://storage.fluffy.social/files/5ca60102-ad7f-42af-8ae2-02ea715c4863.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "wanichan",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-3e61a9da-d5cb-4c36-a19a-734ca11683ce.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "dragonchan",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-b06c14b2-2236-4a0e-8d9b-8456ebeb3b53.png",
+            "aliases": [
+            "doragonchan"
+            ]
+        },
+        {
+            "shortcode": "dare",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-171e502c-25ad-435c-b839-a1a4785dfe79.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "sorehaanatadesu",
+            "imageURL": "https://storage.fluffy.social/files/cc8e974f-0c83-4728-bfb7-8ba27dffc1eb.tiff",
+            "aliases": [
+            "それはあなたです",
+            "twitter"
+            ]
+        },
+        {
+            "shortcode": "mazusou",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-ace9acd0-4b86-4b76-8001-2b1f82ac17bf.png",
+            "aliases": [
+            "まずそう"
+            ]
+        },
+        {
+            "shortcode": "dayoxyu",
+            "imageURL": "https://storage.fluffy.social/files/4588d138-828b-4689-867a-35e5639d91ed.png",
+            "aliases": [
+            "dayoyu"
+            ]
+        },
+        {
+            "shortcode": "youkoso_fs",
+            "imageURL": "https://storage.fluffy.social/files/5930926a-b155-40ac-9058-b0affe90b99f.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "erajan",
+            "imageURL": "https://storage.fluffy.social/files/48c42d17-e545-4936-9315-b203cbd9ed18.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "erojan",
+            "imageURL": "https://storage.fluffy.social/files/2f3ed1d4-185c-4826-9204-bcb3d2ae5f5c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "benri",
+            "imageURL": "https://storage.fluffy.social/files/f5ef2b00-5414-4b6e-a550-968bdc4d6790.png",
+            "aliases": [
+            "べんり"
+            ]
+        },
+        {
+            "shortcode": "sorehasou",
+            "imageURL": "https://storage.fluffy.social/files/c6edcb00-4d00-46ab-8883-c2026d905bf0.png",
+            "aliases": [
+            "それはそう"
+            ]
+        },
+        {
+            "shortcode": "nanikore",
+            "imageURL": "https://storage.fluffy.social/files/fbcbd1a0-55b3-4bc1-9c53-b05ea7a6cc66.png",
+            "aliases": [
+            "なにこれ"
+            ]
+        },
+        {
+            "shortcode": "tasicrab",
+            "imageURL": "https://storage.fluffy.social/files/44f85005-3069-4039-a2c2-9a3594a758f8.png",
+            "aliases": [
+            "tasikani"
+            ]
+        },
+        {
+            "shortcode": "nekasanai",
+            "imageURL": "https://storage.fluffy.social/files/9070130d-d503-460c-83fa-bb6c67d0a940.png",
+            "aliases": [
+            "ねかさない"
+            ]
+        },
+        {
+            "shortcode": "nenasai",
+            "imageURL": "https://storage.fluffy.social/files/53517d9b-7d6a-4613-b34c-3187e9cc7085.png",
+            "aliases": [
+            "ねなさい"
+            ]
+        },
+        {
+            "shortcode": "oshi",
+            "imageURL": "https://storage.fluffy.social/files/79b7f9a0-b7ff-4443-8725-34d3b8f6eda5.png",
+            "aliases": [
+            "oshi!",
+            "推し",
+            "おし",
+            "osi"
+            ]
+        },
+        {
+            "shortcode": "hiltu",
+            "imageURL": "https://storage.fluffy.social/files/50043f1d-0a4c-4e1d-a936-f262bc4c8e73.png",
+            "aliases": [
+            "hi",
+            "ヒッ",
+            "ひっ",
+            "hixtu"
+            ]
+        },
+        {
+            "shortcode": "kyomooshigatoutoi",
+            "imageURL": "https://storage.fluffy.social/files/10c26cb2-3279-4985-b3f6-e3e8d0731e93.png",
+            "aliases": [
+            "今日も推しが尊い",
+            "きょうもおしがとうとい",
+            "推し",
+            "おし",
+            "尊い",
+            "とうとい",
+            "totoi",
+            "tohtoi",
+            "kyoumooshigatoutoi"
+            ]
+        },
+        {
+            "shortcode": "setunasa",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-dc1d772c-2a29-4c7b-998b-0bc26cf000d8.png",
+            "aliases": [
+            "せつなさ",
+            "setsunasa"
+            ]
+        },
+        {
+            "shortcode": "itosisa",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-c0700d94-e0e1-42c5-a05a-0f23d4a04127.png",
+            "aliases": [
+            "itoshisa",
+            "いとしさ"
+            ]
+        },
+        {
+            "shortcode": "kokorotuyosa",
+            "imageURL": "https://storage.fluffy.social/files/8cc7ce53-ef32-4a27-98ad-1192ea445ced.png",
+            "aliases": [
+            "kokoroduyosa",
+            "kokorozuyosa",
+            "こころづよさ",
+            "こころつよさ"
+            ]
+        },
+        {
+            "shortcode": "gohankakutei",
+            "imageURL": "https://storage.fluffy.social/files/a7c8f5d5-4179-416f-b52b-d4d6f4b14388.png",
+            "aliases": [
+            "ごはんかくてい",
+            "めし",
+            "飯",
+            "meshi",
+            "food"
+            ]
+        },
+        {
+            "shortcode": "dochokkyu",
+            "imageURL": "https://storage.fluffy.social/files/b13b4453-b257-4ca1-be3c-4957f4d6a989.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "kawaii3",
+            "imageURL": "https://storage.fluffy.social/files/e83cf066-b015-44e8-bf3f-a5e779bb82e2.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "kawaii1",
+            "imageURL": "https://storage.fluffy.social/files/9c60501f-e092-48fb-b48d-6cc9a36b4694.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "kawaiitententen",
+            "imageURL": "https://storage.fluffy.social/files/7186fcb4-9df3-49fa-9e21-d15acd577c1c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "kawaiine2",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-db81031d-deff-40f4-9ce6-27ebe60e25a7.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "sugoi_glitch",
+            "imageURL": "https://storage.fluffy.social/files/4228b4ec-277e-41bd-ab0d-5aa14779c4f5.png",
+            "aliases": [
+            "すごい",
+            "sugoi"
+            ]
+        },
+        {
+            "shortcode": "kawaiine",
+            "imageURL": "https://storage.fluffy.social/files/76ec76c5-7012-4169-8345-af93160cff9a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "kakuninshimasu",
+            "imageURL": "https://storage.fluffy.social/files/9ea12331-f7f1-4257-9cfc-366fa5a1a629.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "konnnichiwa",
+            "imageURL": "https://storage.fluffy.social/files/d495e584-d817-44e4-be2a-a3f7c92087b3.png",
+            "aliases": [
+            "konnichiwa",
+            "konnnichiha",
+            "konnichiha"
+            ]
+        },
+        {
+            "shortcode": "itsumosobani_yakiniku",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-65898108-5147-45d4-a577-1eb03a7b5e5f.png",
+            "aliases": [
+            "やきにく",
+            "焼肉",
+            "itumosobani_yakiniku"
+            ]
+        }
+    ]
+}

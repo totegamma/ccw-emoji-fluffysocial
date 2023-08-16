@@ -1,0 +1,2062 @@
+{
+    "name": "fluffysocial logos",
+    "version": "1.0.0",
+    "description": "fluffysocialで使われがちなロゴ絵文字です",
+    "credit": "",
+    "iconURL": "https://storage.fluffy.social/files/a0645792-5329-4d83-9de8-3bbbee80d887.png",
+    "emojis": [
+        {
+            "shortcode": "yodobashi_extreme",
+            "imageURL": "https://fluffy.social/files/45be6d2a-6e2c-4878-8c90-b664d6584453",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "broken_image",
+            "imageURL": "https://fluffy.social/files/webpublic-689a459d-e3c8-41f4-a507-3d3f0f8bf34d",
+            "aliases": [
+            "missing_picture",
+            "broken_picture"
+            ]
+        },
+        {
+            "shortcode": "vs",
+            "imageURL": "https://fluffy.social/files/de69dca4-3acc-4742-92ec-5fabfca79c67",
+            "aliases": [
+            "_Logos_Icons_Symbols_",
+            "animated"
+            ]
+        },
+        {
+            "shortcode": "loading",
+            "imageURL": "https://fluffy.social/files/f08fe73b-bbca-45fd-ac8b-e59626a96fe0",
+            "aliases": [
+            "_Logos_Icons_Symbols_",
+            "animated"
+            ]
+        },
+        {
+            "shortcode": "vrchat",
+            "imageURL": "https://fluffy.social/files/71f9c1c0-aeba-42d2-9e80-dba1676477a5",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "neos",
+            "imageURL": "https://fluffy.social/files/b820db8c-089c-475a-9d06-546485bc45c3",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "procreate",
+            "imageURL": "https://fluffy.social/files/f9276215-d95b-4432-bb55-48eb204b5f3e",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "pixaki",
+            "imageURL": "https://fluffy.social/files/e8eb96ac-04be-4257-bb78-a57c3803ced5",
+            "aliases": [
+            "_Logos_Icons_Symbols_",
+            "pixel"
+            ]
+        },
+        {
+            "shortcode": "vrchat_mini",
+            "imageURL": "https://fluffy.social/files/05f17e2e-06bb-4e58-8d4f-12f9ba1260b4",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "aftereffects",
+            "imageURL": "https://fluffy.social/files/91d97d86-035e-49c7-9828-952316fa2aca",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "twitch",
+            "imageURL": "https://fluffy.social/files/ea177f30-9cf1-4206-bcac-359b13847608",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "amazon",
+            "imageURL": "https://fluffy.social/files/9fb4fda7-b04b-4256-995f-626f92deeccd",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "steam",
+            "imageURL": "https://fluffy.social/files/c155e638-e4dd-4b41-aef2-4c59270691ea",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "discord",
+            "imageURL": "https://fluffy.social/files/48da5af1-8395-4db3-8218-dd7adbe43444",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "photoshop",
+            "imageURL": "https://fluffy.social/files/d7c90117-7f17-4884-a04e-afa9a9c60e2c",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "clipstudiopaint",
+            "imageURL": "https://fluffy.social/files/29ec6804-696e-4f87-9a43-3b5e6056be46",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "illustrator",
+            "imageURL": "https://fluffy.social/files/5e860b7b-7f1c-4ccd-8f24-4aa992194fe1",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "aliexpress_mistranslation",
+            "imageURL": "https://fluffy.social/files/983b8dc6-e5d3-45fd-a90a-543e40b11634",
+            "aliases": [
+            "funsou",
+            "ふんそう"
+            ]
+        },
+        {
+            "shortcode": "atom",
+            "imageURL": "https://fluffy.social/files/636e2a7c-4d92-405c-85dc-7fd566100d35",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "soundcloud",
+            "imageURL": "https://fluffy.social/files/56c7c7a1-0f29-43af-907b-5c7b755b574a",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "azure",
+            "imageURL": "https://fluffy.social/files/9cb14c82-dc09-443a-b7b8-c00dd6e812c6",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "gimp",
+            "imageURL": "https://fluffy.social/files/0fab19a9-4ee1-446d-bb94-e75e75e0578b",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "gnu_nano",
+            "imageURL": "https://fluffy.social/files/fd0c8a8c-c572-4e67-91df-b6d318b535e7",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "excel",
+            "imageURL": "https://fluffy.social/files/c17a75c4-2e5f-4eef-add4-38e6c180b950",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "vue",
+            "imageURL": "https://fluffy.social/files/69324d3e-49ed-473e-8a99-4c15e94d566f",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "python",
+            "imageURL": "https://fluffy.social/files/62eb2821-cffd-4b34-b09a-a7d180ad22ed",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "typescript",
+            "imageURL": "https://fluffy.social/files/22fc0ddf-a021-43b2-8f38-a5d41c87065e",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "lisp_alien",
+            "imageURL": "https://fluffy.social/files/e158e8d7-8c45-47a3-b833-05d742c1303f",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "rust",
+            "imageURL": "https://fluffy.social/files/13c25078-70ec-499c-90c7-8e6dc5ef9f63",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "ruby",
+            "imageURL": "https://fluffy.social/files/fe136bae-2cb3-4bcc-9b06-e0371739844f",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "lisp",
+            "imageURL": "https://fluffy.social/files/93567986-6b2b-40f8-bb88-7a11406b5472",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "apex",
+            "imageURL": "https://fluffy.social/files/019ce8d3-1e70-4004-85a6-4a32d5430f2b",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "intellij",
+            "imageURL": "https://fluffy.social/files/5474e5d5-8f32-4d3f-8e78-bf024cc77dec",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "docker",
+            "imageURL": "https://fluffy.social/files/00ecaca4-48a5-4d02-ba94-2cf4a10064c0",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "leagueoflegends",
+            "imageURL": "https://fluffy.social/files/6ad7b248-227f-48d2-b659-30a1271803b5",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "redhat",
+            "imageURL": "https://fluffy.social/files/c95b2e1a-4ff9-4b00-bd75-d1a7607453eb",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "aws",
+            "imageURL": "https://fluffy.social/files/9d6e8f4d-d5d8-438e-b6b1-42f41db690fa",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "v_scode",
+            "imageURL": "https://fluffy.social/files/edcfdffa-2318-4c75-b209-430d8958c506",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "vim",
+            "imageURL": "https://fluffy.social/files/298360f6-df4c-4bea-87f2-6c9aac05c464",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "emacs",
+            "imageURL": "https://fluffy.social/files/bd8557a5-a174-4c48-a2aa-0896dad9082d",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "eclipseide",
+            "imageURL": "https://fluffy.social/files/050d1571-b1bf-4d69-bc7d-b3253439e866",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "kubernetes",
+            "imageURL": "https://fluffy.social/files/c4a6c0f2-e29b-4442-be6f-da5838998c23",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "unitycube",
+            "imageURL": "https://fluffy.social/files/f54f05e5-1536-4df1-a94c-36116667ef07",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "unitycube_2004",
+            "imageURL": "https://fluffy.social/files/0b919877-23bb-459b-a245-cdcb57dc0405",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "adobe",
+            "imageURL": "https://fluffy.social/files/0ca6e5d9-4e4d-4597-b193-83d1c1b880ae",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "aviutl",
+            "imageURL": "https://fluffy.social/files/672513a9-9f2f-442f-9faf-24cf00ddee86",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "blender",
+            "imageURL": "https://fluffy.social/files/9d60c715-427f-498e-a005-3f3386d46103",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "raspberrypi",
+            "imageURL": "https://fluffy.social/files/980d9551-5126-4896-a143-cf3370990627",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "arduino",
+            "imageURL": "https://fluffy.social/files/6fbbb406-6c5d-47df-99a0-149a075908dc",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "symetrix",
+            "imageURL": "https://fluffy.social/files/bd9a829e-0d5a-4baf-809b-b7cd893f6592",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "autocad",
+            "imageURL": "https://fluffy.social/files/webpublic-502e9cd7-ec90-458e-948c-e096daf2b2be",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "ltspice",
+            "imageURL": "https://fluffy.social/files/fab0e904-5d43-4a41-84f2-7d7ce397a474",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "webstorm",
+            "imageURL": "https://fluffy.social/files/70f32f79-f600-42f9-b737-b7fcbc0cbdb9",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "vscode",
+            "imageURL": "https://fluffy.social/files/dc02e48d-a4e0-4fd6-b416-2129d7f208a0",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "solidworks",
+            "imageURL": "https://fluffy.social/files/2277139b-8f45-48da-b596-48c82ff5a468",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "ifilter_misetehoshii",
+            "imageURL": "https://fluffy.social/files/1db5196b-4167-4272-ab4c-84d81d1b332a",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "postgresql",
+            "imageURL": "https://fluffy.social/files/webpublic-74ea468d-f557-4aea-a651-33fdb6da5a50",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "at_kobayashi",
+            "imageURL": "https://fluffy.social/files/f25634d3-364e-497c-9b47-dafafb65c5fd",
+            "aliases": [
+            "attaraiina"
+            ]
+        },
+        {
+            "shortcode": "3dcg",
+            "imageURL": "https://fluffy.social/files/e5133f3f-ec7a-4c23-a2b5-d8ae38e3f039",
+            "aliases": [
+            "box",
+            "cube"
+            ]
+        },
+        {
+            "shortcode": "music",
+            "imageURL": "https://fluffy.social/files/b94c2dda-cdbf-4537-b5d4-3127381eab76",
+            "aliases": [
+            "vinyl",
+            "disc"
+            ]
+        },
+        {
+            "shortcode": "serverInfra",
+            "imageURL": "https://fluffy.social/files/d82c7852-dbba-4338-8c29-0930e2abd8f1",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "software",
+            "imageURL": "https://fluffy.social/files/5733dd69-50ea-40bc-942e-8ce8741cf9d8",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "electronics",
+            "imageURL": "https://fluffy.social/files/9f1ba670-c768-4917-8b65-2369c38fa3b3",
+            "aliases": [
+            "opamp"
+            ]
+        },
+        {
+            "shortcode": "furry",
+            "imageURL": "https://fluffy.social/files/1a5e155a-fd45-4c4d-ba73-dbab0d6561ce",
+            "aliases": [
+            "tail"
+            ]
+        },
+        {
+            "shortcode": "superchat_red",
+            "imageURL": "https://fluffy.social/files/076f93f1-1216-4bc2-9261-e339d3506943",
+            "aliases": [
+            "スパチャ",
+            "赤スパ",
+            "スーパーチャット",
+            "Superchat"
+            ]
+        },
+        {
+            "shortcode": "seaweed",
+            "imageURL": "https://fluffy.social/files/e6c7144a-95e8-4c46-b00c-d0f999ed519e",
+            "aliases": [
+            "海苔",
+            "nori",
+            "square"
+            ]
+        },
+        {
+            "shortcode": "macos_rainbow_cursor",
+            "imageURL": "https://fluffy.social/files/26fc759b-8a6d-4053-b547-d769582a3bd8",
+            "aliases": [
+            "",
+            "animated"
+            ]
+        },
+        {
+            "shortcode": "twitter_logo_blue",
+            "imageURL": "https://fluffy.social/files/webpublic-e72500c3-fa25-4ad6-b80a-d443defb4527",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "blank",
+            "imageURL": "https://fluffy.social/files/6cf9c31e-7e2f-4049-b88f-f19172cda9e1",
+            "aliases": [
+            "space"
+            ]
+        },
+        {
+            "shortcode": "javascript",
+            "imageURL": "https://fluffy.social/files/c315df3b-ce21-4b29-bc45-93873f0cd55d",
+            "aliases": [
+            "_Logos_Icons_Symbols_"
+            ]
+        },
+        {
+            "shortcode": "vivaldi_dead_bird",
+            "imageURL": "https://fluffy.social/files/cd0371d7-0787-4e90-8f99-0c6dcf39ef7e",
+            "aliases": [
+            "dead",
+            "bird",
+            "death",
+            "crush"
+            ]
+        },
+        {
+            "shortcode": "mia",
+            "imageURL": "https://fluffy.social/files/bfb6c5ca-efbe-4e0c-80f7-00f9d1a2a2d8",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "nsfw",
+            "imageURL": "https://storage.fluffy.social/files/f5cf8b68-b23e-4881-ad2c-af1f2e8371d3.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "neoslove",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-49e631c7-d1ff-4076-b805-f2ddbdecd0ae.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "devicon_aarch64",
+            "imageURL": "https://storage.fluffy.social/files/400baf5f-34a9-48c7-9322-9940e0c7434b.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_adonisjs",
+            "imageURL": "https://storage.fluffy.social/files/0c83e971-fd25-44fd-b48a-7f97c3fbf271.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_aftereffects",
+            "imageURL": "https://storage.fluffy.social/files/e139c457-a356-46bf-9f3f-2608bc0ff1ce.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_amazonwebservices",
+            "imageURL": "https://storage.fluffy.social/files/3e429f31-1388-4a7f-9799-7e6f8cbc314b.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_anaconda",
+            "imageURL": "https://storage.fluffy.social/files/e038dc42-d9a3-4c35-bad1-5bf0752798b7.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_android",
+            "imageURL": "https://storage.fluffy.social/files/054233c2-2ad2-474c-9373-cfb673316740.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_androidstudio",
+            "imageURL": "https://storage.fluffy.social/files/64a8f088-cedd-45be-b871-8cd52435c491.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_angularjs",
+            "imageURL": "https://storage.fluffy.social/files/bfe1e2ce-118c-4b0b-811d-a73d750890c9.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_ansible",
+            "imageURL": "https://storage.fluffy.social/files/1bfb3433-cd0f-46d5-8b7e-8f73635684af.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_apache",
+            "imageURL": "https://storage.fluffy.social/files/5bca22f9-c457-4eb7-9b28-fd1d45d5f7cf.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_apachekafka",
+            "imageURL": "https://storage.fluffy.social/files/831750fa-08d0-46fd-9631-bdfd4c95ed6b.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_appcelerator",
+            "imageURL": "https://storage.fluffy.social/files/5705d7ec-a724-4e92-b96a-bc44370ef094.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_apple",
+            "imageURL": "https://storage.fluffy.social/files/0e4c70a3-d418-476f-b98d-6d7dd3c94f49.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_appwrite",
+            "imageURL": "https://storage.fluffy.social/files/2c361b52-3795-486e-9f43-a4b0f19ea18d.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_arduino",
+            "imageURL": "https://storage.fluffy.social/files/528836d1-fce1-4a05-8e63-c43b2d3435c1.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_argocd",
+            "imageURL": "https://storage.fluffy.social/files/6a90ec75-cb56-44c7-bc01-ca869dd59c2f.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_atom",
+            "imageURL": "https://storage.fluffy.social/files/3c8717ce-f1cc-4eb4-b5ca-c3f6cb25373d.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_azure",
+            "imageURL": "https://storage.fluffy.social/files/834ceec0-9c86-4418-b610-0c398d979ddb.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_babel",
+            "imageURL": "https://storage.fluffy.social/files/652f40cf-52a2-477a-94fc-9b6e3b7015bc.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_backbonejs",
+            "imageURL": "https://storage.fluffy.social/files/67834a9d-9fa4-4b2b-9b22-5b6fcc54a406.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_bamboo",
+            "imageURL": "https://storage.fluffy.social/files/6db5d15f-d288-4452-8ce5-ca64cf13a45a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_bash",
+            "imageURL": "https://storage.fluffy.social/files/f408b307-17f2-44f8-ad61-816282c40b2c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_behance",
+            "imageURL": "https://storage.fluffy.social/files/74422a15-8bad-47c1-bf68-71d07f8b65fb.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_bitbucket",
+            "imageURL": "https://storage.fluffy.social/files/cd5b943c-6771-4138-96ac-680a30ec6c81.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_blender",
+            "imageURL": "https://storage.fluffy.social/files/0b0c59ea-7772-48b7-b731-ce39b4d03b21.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_bootstrap",
+            "imageURL": "https://storage.fluffy.social/files/76fbfdea-1ed2-4157-9fbc-0f7b1fc7a6f4.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_bower",
+            "imageURL": "https://storage.fluffy.social/files/215a62a7-96e8-4e19-afc0-fbf8a6fb4c89.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_bulma",
+            "imageURL": "https://storage.fluffy.social/files/ba8edbc4-2fa5-41e7-8e16-5e8f1c40a24c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_c",
+            "imageURL": "https://storage.fluffy.social/files/b0dc940e-940a-4d5d-93ca-646e2f0ff664.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_cakephp",
+            "imageURL": "https://storage.fluffy.social/files/7a1bc24d-0e60-4bd0-8897-e3d9596f36bf.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_canva",
+            "imageURL": "https://storage.fluffy.social/files/2ec78f68-f6b0-4b75-92f0-0ff53b5bd642.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_centos",
+            "imageURL": "https://storage.fluffy.social/files/ef2218e5-97ab-4c9c-a12b-e845c6354da0.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_ceylon",
+            "imageURL": "https://storage.fluffy.social/files/d10b13c6-d30d-4d12-be59-c7b12f701592.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_chrome",
+            "imageURL": "https://storage.fluffy.social/files/044cee50-9b83-4d8e-b366-d88662d8e19e.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_circleci",
+            "imageURL": "https://storage.fluffy.social/files/b90ee4d8-9267-43bd-a760-17b3b9a4b172.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_clojure",
+            "imageURL": "https://storage.fluffy.social/files/61ae453e-73cd-499c-bf33-dee5982f05f2.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_clojurescript",
+            "imageURL": "https://storage.fluffy.social/files/f41a0ff5-16d1-4692-a8aa-28e7e4db7df8.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_cmake",
+            "imageURL": "https://storage.fluffy.social/files/37c19059-3866-4733-916e-06b137fc6053.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_codecov",
+            "imageURL": "https://storage.fluffy.social/files/dde2c1cd-29bf-4cf7-ac19-e1c1ae680959.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_codeigniter",
+            "imageURL": "https://storage.fluffy.social/files/4f6a0fa6-bfdf-420c-9dce-8f7e21ad6fde.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_codepen",
+            "imageURL": "https://storage.fluffy.social/files/13d3793f-772d-4ddc-b933-ab6a98d060e3.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_coffeescript",
+            "imageURL": "https://storage.fluffy.social/files/1675dc12-1854-4a72-84f6-c0f53dbd768d.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_composer",
+            "imageURL": "https://storage.fluffy.social/files/74b8e0fd-8a6e-47de-a4de-95a116fffff8.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_confluence",
+            "imageURL": "https://storage.fluffy.social/files/a8c1560e-f5de-4fae-969b-4ee791220e1a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_couchdb",
+            "imageURL": "https://storage.fluffy.social/files/03d8db38-db0c-4476-8683-ad030e1ee032.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_cplusplus",
+            "imageURL": "https://storage.fluffy.social/files/b935ac64-e0ec-48fd-a018-8fed53e5efcf.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_crystal",
+            "imageURL": "https://storage.fluffy.social/files/3949cbfc-1d26-4800-b215-3ff4dbcb3055.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_csharp",
+            "imageURL": "https://storage.fluffy.social/files/1b9c925d-d299-49f7-9dce-5169e71c3821.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_css3",
+            "imageURL": "https://storage.fluffy.social/files/6d2df36c-9e46-4c5d-8e70-2fd7fab6a5db.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_cucumber",
+            "imageURL": "https://storage.fluffy.social/files/fa7ed064-3ec7-40f3-96fb-132140c2adfb.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_d3js",
+            "imageURL": "https://storage.fluffy.social/files/25601868-fd09-4bc7-8ebd-bdcd521174d0.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_dart",
+            "imageURL": "https://storage.fluffy.social/files/bbe869a5-0288-4671-97c2-582e11445fe8.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_debian",
+            "imageURL": "https://storage.fluffy.social/files/1902b1cf-a103-4d83-8765-ce7b7c2a1d45.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_denojs",
+            "imageURL": "https://storage.fluffy.social/files/15ad7552-c964-4215-9cef-a02fb9193230.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_devicon",
+            "imageURL": "https://storage.fluffy.social/files/0c56e942-c509-4efd-8063-368a2b72e8f2.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_digitalocean",
+            "imageURL": "https://storage.fluffy.social/files/824b9fca-7513-4174-be69-7092c68be5d3.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_discordjs",
+            "imageURL": "https://storage.fluffy.social/files/ec977493-ba65-4258-be38-8cf60ce0ef17.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_django",
+            "imageURL": "https://storage.fluffy.social/files/5bf400ac-a004-434a-b13e-c2a28eae3d29.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_docker",
+            "imageURL": "https://storage.fluffy.social/files/0683698e-6aa2-4f09-a956-90ed4cdb3a28.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_doctrine",
+            "imageURL": "https://storage.fluffy.social/files/48808f79-394e-4e47-b354-000447068285.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_dotnetcore",
+            "imageURL": "https://storage.fluffy.social/files/2dc483fe-7b61-4578-a07c-3a95eab00530.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_dropwizard",
+            "imageURL": "https://storage.fluffy.social/files/491977b5-860c-4719-9709-7287fd2b9bce.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_drupal",
+            "imageURL": "https://storage.fluffy.social/files/0c336702-f387-487c-87e6-09a34d8a4685.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_electron",
+            "imageURL": "https://storage.fluffy.social/files/4c73bd11-7cd1-4c16-bf3f-0c32d42a3a84.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_eleventy",
+            "imageURL": "https://storage.fluffy.social/files/1b06429f-6d3d-4a2c-ae1e-fa43295ddc76.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_elixir",
+            "imageURL": "https://storage.fluffy.social/files/4004ba1e-7a1a-4efa-be50-f67460416b5d.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_elm",
+            "imageURL": "https://storage.fluffy.social/files/0efd4fa2-2d70-40bc-b17b-0aea719a275d.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_embeddedc",
+            "imageURL": "https://storage.fluffy.social/files/98523c01-242c-419e-8bc7-979106c91ba5.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_ember",
+            "imageURL": "https://storage.fluffy.social/files/39958f48-8ff3-499d-82e5-bd9700d13b86.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_erlang",
+            "imageURL": "https://storage.fluffy.social/files/2e2c9e67-15cb-44f8-aa4d-d10b7a368654.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_eslint",
+            "imageURL": "https://storage.fluffy.social/files/aabb622c-a674-4e2b-811d-bd9ab4bd035e.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_express",
+            "imageURL": "https://storage.fluffy.social/files/10adf187-b084-418c-a1e6-3e7eba62b519.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_facebook",
+            "imageURL": "https://storage.fluffy.social/files/ed54acda-b1ee-4ea6-aa97-f63be76c6d22.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_fastapi",
+            "imageURL": "https://storage.fluffy.social/files/0ba9bf30-0d58-4208-9a27-9abc3b479820.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_feathersjs",
+            "imageURL": "https://storage.fluffy.social/files/6d0ca301-c2df-4032-a44c-6ca190d97095.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_fedora",
+            "imageURL": "https://storage.fluffy.social/files/5bb5280d-e048-4b72-86c2-50a75cc3c8df.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_figma",
+            "imageURL": "https://storage.fluffy.social/files/3c20d46e-44d9-4452-bd27-c364920431df.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_filezilla",
+            "imageURL": "https://storage.fluffy.social/files/2a747487-26ee-4f03-959d-7e306fdf1f9b.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_firebase",
+            "imageURL": "https://storage.fluffy.social/files/e25e818f-3925-4d00-a145-5ebbf95f50d2.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_firefox",
+            "imageURL": "https://storage.fluffy.social/files/d7a4a84a-d947-4e18-b2f6-0696d81ed25c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_flask",
+            "imageURL": "https://storage.fluffy.social/files/f1dc5988-8754-4668-99fa-65c72895a7cd.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_flutter",
+            "imageURL": "https://storage.fluffy.social/files/595c5f1b-7ef7-40b3-83b1-1205be42d90c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_foundation",
+            "imageURL": "https://storage.fluffy.social/files/ce76e8c0-bfd4-4273-8041-5c66feddbabc.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_fsharp",
+            "imageURL": "https://storage.fluffy.social/files/276644e3-5949-4b1a-a9ef-49fbd3b98a35.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_gatling",
+            "imageURL": "https://storage.fluffy.social/files/d77c68a6-bbf1-4c1a-95b7-7a2f9925fdde.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_gatsby",
+            "imageURL": "https://storage.fluffy.social/files/8bcd9187-c2ee-42c0-8aa3-641ab71331cc.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_gcc",
+            "imageURL": "https://storage.fluffy.social/files/7743f9f4-c5e3-432a-8da6-790be843dcd7.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_gentoo",
+            "imageURL": "https://storage.fluffy.social/files/f4ec2c04-d32b-4dca-83c7-6d6622ca5c51.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_gimp",
+            "imageURL": "https://storage.fluffy.social/files/5a714581-73a9-4799-af50-b45226b148fa.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_git",
+            "imageURL": "https://storage.fluffy.social/files/f811a260-478c-4af7-be48-b20ee96dce52.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_github",
+            "imageURL": "https://storage.fluffy.social/files/256851bc-3a02-43b2-b07d-6596107f1b1e.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_gitlab",
+            "imageURL": "https://storage.fluffy.social/files/9016e946-2eb9-4223-9f39-0e186cc026fd.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_gitter",
+            "imageURL": "https://storage.fluffy.social/files/b7382106-b594-4cb4-8573-0ec65253886b.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_go",
+            "imageURL": "https://storage.fluffy.social/files/dd5d0e31-a651-4408-9d50-180d8cd1d794.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_godot",
+            "imageURL": "https://storage.fluffy.social/files/54516e46-ea15-41e0-8d34-876beee28cf5.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_google",
+            "imageURL": "https://storage.fluffy.social/files/3a882595-cfa5-4d58-940a-0ff984f6cf60.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_googlecloud",
+            "imageURL": "https://storage.fluffy.social/files/07afc8b4-9e3e-4a1c-acd8-ca24df3275e4.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_gradle",
+            "imageURL": "https://storage.fluffy.social/files/c7b9ee5e-bccd-4c24-8858-3afad875893c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_grafana",
+            "imageURL": "https://storage.fluffy.social/files/295cda1a-4e63-4314-9501-2f4451a447d6.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_grails",
+            "imageURL": "https://storage.fluffy.social/files/00a1f647-b3d4-4894-b813-f52d27b5c951.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_graphql",
+            "imageURL": "https://storage.fluffy.social/files/2e8bf218-16b9-49e1-994a-73b4a6239329.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_groovy",
+            "imageURL": "https://storage.fluffy.social/files/ae1437e2-0c94-4dfb-bea8-1f32243c3736.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_grunt",
+            "imageURL": "https://storage.fluffy.social/files/267fef4f-41d3-4d0f-a271-a0832fdebb24.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_gulp",
+            "imageURL": "https://storage.fluffy.social/files/b0c64ac5-dd21-4a19-9214-86c5f5110fb0.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_handlebars",
+            "imageURL": "https://storage.fluffy.social/files/83bcc151-3658-4baf-97cb-9c8ff549656c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_haskell",
+            "imageURL": "https://storage.fluffy.social/files/36caa9f4-ae3b-4ac5-a113-75c9bc7ab42a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_haxe",
+            "imageURL": "https://storage.fluffy.social/files/cada4c03-7c66-42ad-820c-714a1e3d90e8.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_heroku",
+            "imageURL": "https://storage.fluffy.social/files/1fd9e295-af60-4897-a763-87a3b293e992.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_html5",
+            "imageURL": "https://storage.fluffy.social/files/2dfc533f-c179-46ad-ba9d-4bfeb696545a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_hugo",
+            "imageURL": "https://storage.fluffy.social/files/ea7fa843-0ed5-4236-826d-8627ce1c0ae9.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_ie10",
+            "imageURL": "https://storage.fluffy.social/files/15b94e28-761f-4d03-99c4-6c1c92b7a309.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_ifttt",
+            "imageURL": "https://storage.fluffy.social/files/3dc7f1d0-79a9-4690-a19f-668402d13f4a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_illustrator",
+            "imageURL": "https://storage.fluffy.social/files/a7fea2a0-ade5-490d-afa7-c227c699df42.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_inkscape",
+            "imageURL": "https://storage.fluffy.social/files/61ffe0ae-8e86-4a12-817f-822d02bf7cc0.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_intellij",
+            "imageURL": "https://storage.fluffy.social/files/76843a50-2d72-4a8b-8e37-ab30fc9e001e.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_ionic",
+            "imageURL": "https://storage.fluffy.social/files/ebef5334-4ea2-41d3-99c4-b3c4679df2fd.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_jamstack",
+            "imageURL": "https://storage.fluffy.social/files/b8bc824f-55c0-4c71-a1a9-7bc0868ac9be.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_jasmine",
+            "imageURL": "https://storage.fluffy.social/files/207eafc2-e916-4ad0-8607-f3a3292dc59f.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_java",
+            "imageURL": "https://storage.fluffy.social/files/59429ab1-8d50-4224-ae8b-0957c5b55f86.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_javascript",
+            "imageURL": "https://storage.fluffy.social/files/8b56eaf8-8f87-4c58-b15d-a183ed3eae69.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_jeet",
+            "imageURL": "https://storage.fluffy.social/files/9594883c-6bcb-453f-a642-a90b73325792.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_jenkins",
+            "imageURL": "https://storage.fluffy.social/files/50553e2e-70c7-47b1-ba72-95ef6f2c2ab4.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_jest",
+            "imageURL": "https://storage.fluffy.social/files/d211285a-c81c-4ea5-a2de-ade773b6a637.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_jetbrains",
+            "imageURL": "https://storage.fluffy.social/files/4589b564-5e49-4024-8928-75ec9c386b6f.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_jira",
+            "imageURL": "https://storage.fluffy.social/files/51e33faf-a6c6-4789-b07c-529776840651.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_jquery",
+            "imageURL": "https://storage.fluffy.social/files/705a97b2-41cf-479a-92b0-38ba7fcbdf6a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_julia",
+            "imageURL": "https://storage.fluffy.social/files/72af5462-0190-4788-9a69-55df776b8ae1.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_jupyter",
+            "imageURL": "https://storage.fluffy.social/files/6bf43f04-5aaf-4cff-8af5-cc790e8fdf4a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_k3s",
+            "imageURL": "https://storage.fluffy.social/files/3d23e306-1025-493f-87b1-4e7445e185db.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_kaggle",
+            "imageURL": "https://storage.fluffy.social/files/ba8a4cef-b4ab-480c-a696-567d04c11371.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_karma",
+            "imageURL": "https://storage.fluffy.social/files/086696d8-dc73-4534-8122-69fc76e773b5.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_knockout",
+            "imageURL": "https://storage.fluffy.social/files/dd5dc1c3-6040-45e5-ae3c-516f7439114a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_kotlin",
+            "imageURL": "https://storage.fluffy.social/files/4e6a8b87-1d19-4621-bd92-82845bd283c7.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_krakenjs",
+            "imageURL": "https://storage.fluffy.social/files/d8f7d9ba-3d9f-4447-b2c0-5513bd767315.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_kubernetes",
+            "imageURL": "https://storage.fluffy.social/files/40836e90-577f-4ed4-9bd9-da2947cf2359.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_labview",
+            "imageURL": "https://storage.fluffy.social/files/b01faba2-160b-496d-99e7-c11eeb450a35.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_laravel",
+            "imageURL": "https://storage.fluffy.social/files/aed870fc-b991-461a-acf3-f1641ad38bff.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_latex",
+            "imageURL": "https://storage.fluffy.social/files/f9886131-2e89-4588-9793-49e512fa6d78.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_less",
+            "imageURL": "https://storage.fluffy.social/files/b5f7465b-c9a0-4c35-bd93-d5a9bf924aef.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_linkedin",
+            "imageURL": "https://storage.fluffy.social/files/d2b4df42-aa15-408a-8c9e-69b633c25444.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_linux",
+            "imageURL": "https://storage.fluffy.social/files/7cf1b8c5-4248-4a2c-81e4-73fa5adb84fd.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_lua",
+            "imageURL": "https://storage.fluffy.social/files/6ada8c4c-033d-45d3-bd82-2f0e3f7741b7.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_magento",
+            "imageURL": "https://storage.fluffy.social/files/e25d0fb2-ca75-412f-be6a-58296bacf2d7.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_markdown",
+            "imageURL": "https://storage.fluffy.social/files/8daa07a3-0fda-4744-9500-64ffb7e9cd8e.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_materialui",
+            "imageURL": "https://storage.fluffy.social/files/e0d6f2cb-21b8-424c-a822-163ef13b785a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_matlab",
+            "imageURL": "https://storage.fluffy.social/files/1b5bf7c2-6b38-4316-87a3-19abe697ae35.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_maya",
+            "imageURL": "https://storage.fluffy.social/files/6d954067-db1c-4080-bb27-e394d83afca2.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_meteor",
+            "imageURL": "https://storage.fluffy.social/files/f74dace4-5e80-4db4-8377-a3c96c9e20c2.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_microsoftsqlserver",
+            "imageURL": "https://storage.fluffy.social/files/366b540a-a71e-4735-84b9-6eea7d614952.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_minitab",
+            "imageURL": "https://storage.fluffy.social/files/8565da41-3b92-4dd3-a8c8-4d569085f3ba.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_mocha",
+            "imageURL": "https://storage.fluffy.social/files/5b5c6df4-30f7-42b2-9f93-40c0ac073eb4.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_modx",
+            "imageURL": "https://storage.fluffy.social/files/dac3aec7-143a-40a1-a462-d810e2b9b19f.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_mongodb",
+            "imageURL": "https://storage.fluffy.social/files/32fb3103-e8c3-4094-a714-3def661e44d5.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_moodle",
+            "imageURL": "https://storage.fluffy.social/files/aae1282c-9802-46e0-b3c6-abbb39f7dd8d.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_msdos",
+            "imageURL": "https://storage.fluffy.social/files/e07375b9-1da6-4eb4-b751-7a833de5ebc6.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_mysql",
+            "imageURL": "https://storage.fluffy.social/files/6a8c6bed-9059-4ebe-be01-8b2393135ef9.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_neo4j",
+            "imageURL": "https://storage.fluffy.social/files/e3fe4dc5-bb93-4662-a518-76439439c398.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_nestjs",
+            "imageURL": "https://storage.fluffy.social/files/efea8625-970c-4eed-93ba-2bc6b45d6ae6.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_networkx",
+            "imageURL": "https://storage.fluffy.social/files/73a47c3c-0aa0-4e0b-bffd-ec9d3cec9325.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_nextjs",
+            "imageURL": "https://storage.fluffy.social/files/9a7c34d0-e485-4d2e-9512-7a9359e8a92c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_nginx",
+            "imageURL": "https://storage.fluffy.social/files/60d63967-6117-4377-8e76-b6af1b02fdf7.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_nixos",
+            "imageURL": "https://storage.fluffy.social/files/f3dd957c-8c12-4e9c-ab90-0f14e181b165.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_nodejs",
+            "imageURL": "https://storage.fluffy.social/files/7b65cfc1-e037-4415-b202-0e5d83fccafa.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_nodewebkit",
+            "imageURL": "https://storage.fluffy.social/files/a9a78d61-4c35-4bd3-9db8-65534c0a24b0.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_npm",
+            "imageURL": "https://storage.fluffy.social/files/e15e708c-15ba-4c72-9528-bfa16aa021a2.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_nuget",
+            "imageURL": "https://storage.fluffy.social/files/9b8fb1ed-b3e7-472e-84ea-a04acd369af2.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_numpy",
+            "imageURL": "https://storage.fluffy.social/files/66aa3467-908a-4c02-b40b-ab6da5ab199c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_nuxtjs",
+            "imageURL": "https://storage.fluffy.social/files/2cb97592-e0e6-44af-b408-d0e7300b0006.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_objectivec",
+            "imageURL": "https://storage.fluffy.social/files/9b814a65-b07a-41bb-b9da-083acfb05932.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_ocaml",
+            "imageURL": "https://storage.fluffy.social/files/4bf7f0b0-fecf-4b6f-b391-20153d83e9fa.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_openal",
+            "imageURL": "https://storage.fluffy.social/files/3930480c-ab2c-473b-8059-a67840287329.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_opencv",
+            "imageURL": "https://storage.fluffy.social/files/6fa2e8a7-33e3-4c87-b3ac-ba495255049a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_opengl",
+            "imageURL": "https://storage.fluffy.social/files/8dc85b7e-b2fd-45f5-97f6-215f05a09f67.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_opensuse",
+            "imageURL": "https://storage.fluffy.social/files/e81f5f91-1350-4b90-a469-c7971136b26a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_opera",
+            "imageURL": "https://storage.fluffy.social/files/b33cabdb-f346-425c-a326-9b32a5d664bd.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_oracle",
+            "imageURL": "https://storage.fluffy.social/files/47b427cd-02af-4174-ab22-6791aaaafcfe.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_packer",
+            "imageURL": "https://storage.fluffy.social/files/2171bea2-97d7-42df-9f93-7d01ea4899e4.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_pandas",
+            "imageURL": "https://storage.fluffy.social/files/0c977ec0-a5ef-45ad-bf76-ed01cc76b232.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_perl",
+            "imageURL": "https://storage.fluffy.social/files/b2890167-0e35-4442-8105-eba2cf10a890.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_phalcon",
+            "imageURL": "https://storage.fluffy.social/files/6916961f-36b3-45f1-b0a8-f1e7c8698df3.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_phoenix",
+            "imageURL": "https://storage.fluffy.social/files/d7c4d09c-5b93-4f0c-990d-8ee753e5d1bc.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_photoshop",
+            "imageURL": "https://storage.fluffy.social/files/3c96f448-c15f-4124-8f5c-8003648310a3.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_php",
+            "imageURL": "https://storage.fluffy.social/files/1d73a766-ba54-4152-8511-4b613f48bc81.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_phpstorm",
+            "imageURL": "https://storage.fluffy.social/files/33677537-5118-4e62-8e61-1c09b6e1dde5.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_podman",
+            "imageURL": "https://storage.fluffy.social/files/e8f35e3f-518a-428d-b1e2-5308b428a907.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_polygon",
+            "imageURL": "https://storage.fluffy.social/files/8a0cd4ec-0c7a-4d26-ab32-80d526881243.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_postgresql",
+            "imageURL": "https://storage.fluffy.social/files/84b37f74-6742-460c-8187-17c9ab3d36a8.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_premierepro",
+            "imageURL": "https://storage.fluffy.social/files/b558f6c1-0665-497b-b349-57386ea209af.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_processing",
+            "imageURL": "https://storage.fluffy.social/files/31cfebbe-222a-4c2b-baff-087371af9fb1.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_prometheus",
+            "imageURL": "https://storage.fluffy.social/files/6c724672-4dab-4d9f-a5e8-caadc155b4d1.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_protractor",
+            "imageURL": "https://storage.fluffy.social/files/97516087-5dbf-460d-9b69-8f528850b1f9.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_putty",
+            "imageURL": "https://storage.fluffy.social/files/344e75e2-613b-4048-9f6f-03462339d98a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_pycharm",
+            "imageURL": "https://storage.fluffy.social/files/1039c15d-8647-4a2b-8ccc-b377fb808e97.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_pytest",
+            "imageURL": "https://storage.fluffy.social/files/f61ac225-4001-478a-99c5-4f776d309fff.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_python",
+            "imageURL": "https://storage.fluffy.social/files/0b199ae6-71ed-4c4e-80f5-98fcd1a1da47.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_pytorch",
+            "imageURL": "https://storage.fluffy.social/files/34185ebe-9844-4a63-af33-a3ae37cecb8c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_qt",
+            "imageURL": "https://storage.fluffy.social/files/ad9fe7cd-0c81-4a7b-b6ac-953cfb33c964.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_r",
+            "imageURL": "https://storage.fluffy.social/files/d9f67087-ce4d-403b-91e3-5847f19b4fe1.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_rails",
+            "imageURL": "https://storage.fluffy.social/files/5eea895b-5da5-4058-bc24-a0d63701c54c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_raspberrypi",
+            "imageURL": "https://storage.fluffy.social/files/be2c07c2-d4ae-48f9-aecd-972314f7d8d8.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_react",
+            "imageURL": "https://storage.fluffy.social/files/ef2c579e-e253-44f9-8c2b-00040967f80b.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_rect",
+            "imageURL": "https://storage.fluffy.social/files/814ea0f4-aec5-4da3-9743-9899d9eaeb24.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_redhat",
+            "imageURL": "https://storage.fluffy.social/files/b03d2963-ddb4-4401-b1cd-580b7427eefe.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_redis",
+            "imageURL": "https://storage.fluffy.social/files/e2c2b294-2ba4-419d-8ba4-215bcd6719a7.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_redux",
+            "imageURL": "https://storage.fluffy.social/files/9efb0d2c-8705-4157-8e61-2badd8a4b2bd.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_rocksdb",
+            "imageURL": "https://storage.fluffy.social/files/586e8ab7-e591-4398-a0d5-40f1bdc12727.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_rspec",
+            "imageURL": "https://storage.fluffy.social/files/c11a6327-6d6c-4f57-ae2c-88874684189a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_rstudio",
+            "imageURL": "https://storage.fluffy.social/files/bf1c233d-ea71-42d6-8e8b-87da8cd73ab4.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_ruby",
+            "imageURL": "https://storage.fluffy.social/files/cbd57dc7-92f7-48e7-952d-842482162fdc.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_rubymine",
+            "imageURL": "https://storage.fluffy.social/files/ae7307be-658c-4be6-9afc-64cfe36a070f.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_rust",
+            "imageURL": "https://storage.fluffy.social/files/007c572c-7f1b-4737-ba12-f9035030f4dd.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_safari",
+            "imageURL": "https://storage.fluffy.social/files/43e7fd37-a9c7-4f04-89e4-a9726c7f34be.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_salesforce",
+            "imageURL": "https://storage.fluffy.social/files/43d14f2d-e95f-4c2d-811c-6d601b272968.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_sass",
+            "imageURL": "https://storage.fluffy.social/files/14559a7e-7805-428c-a78a-5b7b1ebc1b09.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_scala",
+            "imageURL": "https://storage.fluffy.social/files/3bd5cc25-850b-4288-aada-0b5052c613ab.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_sdl",
+            "imageURL": "https://storage.fluffy.social/files/f440d872-dd7c-404e-a510-9927aef7e5e3.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_selenium",
+            "imageURL": "https://storage.fluffy.social/files/fe63b19d-6840-401c-aa70-731f4fe13f9f.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_sequelize",
+            "imageURL": "https://storage.fluffy.social/files/9bf5f965-65cc-4d22-aa51-df928aa9c0a2.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_shopware",
+            "imageURL": "https://storage.fluffy.social/files/429fba20-24b2-407b-b384-049b49886017.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_shotgrid",
+            "imageURL": "https://storage.fluffy.social/files/035061b3-e83b-46c7-9852-360fd1ab3198.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_sketch",
+            "imageURL": "https://storage.fluffy.social/files/fbff6360-eac2-443f-a909-c3c31a249474.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_slack",
+            "imageURL": "https://storage.fluffy.social/files/9e8ec11c-96b6-4506-90c0-c4313f26f0ff.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_socketio",
+            "imageURL": "https://storage.fluffy.social/files/d74f73bd-9e99-4721-89dd-8905cfa48d19.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_solidity",
+            "imageURL": "https://storage.fluffy.social/files/ba0ec77e-504b-4c25-bc76-ba6bfd410868.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_sourcetree",
+            "imageURL": "https://storage.fluffy.social/files/fd25350e-f328-468a-8477-6fd457a99267.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_spring",
+            "imageURL": "https://storage.fluffy.social/files/28841d84-d998-4a54-8144-62b0d6fcb7f4.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_spss",
+            "imageURL": "https://storage.fluffy.social/files/1ecc7c0a-9ec6-4625-ad74-7384940edbda.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_sqlalchemy",
+            "imageURL": "https://storage.fluffy.social/files/f6580c64-8123-43aa-be3d-715ddedade36.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_sqlite",
+            "imageURL": "https://storage.fluffy.social/files/9e6ce9c1-633d-4b13-a640-c4a681368be6.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_ssh",
+            "imageURL": "https://storage.fluffy.social/files/29f8124a-035d-43da-9965-899cf121f0e3.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_storybook",
+            "imageURL": "https://storage.fluffy.social/files/e19254cb-c357-4a74-b446-a5c89a448a0b.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_stylus",
+            "imageURL": "https://storage.fluffy.social/files/c9fe8ac2-c5ed-4ace-a700-20241ad63924.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_subversion",
+            "imageURL": "https://storage.fluffy.social/files/9c0f6615-e919-4ad7-b418-0a56b2ef95a0.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_svelte",
+            "imageURL": "https://storage.fluffy.social/files/740e0ad3-5da6-48db-91b3-7010a8d37dd9.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_swift",
+            "imageURL": "https://storage.fluffy.social/files/b06785f4-97c3-4cc0-adb1-b189362d73f4.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_symfony",
+            "imageURL": "https://storage.fluffy.social/files/281fb65a-1121-4f21-8575-536abd5e0e36.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_tailwindcss",
+            "imageURL": "https://storage.fluffy.social/files/e7ddebb4-49ab-4626-a08e-869ca211fdf5.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_tensorflow",
+            "imageURL": "https://storage.fluffy.social/files/900b072a-e16a-491a-a809-8ead260fd8b3.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_terraform",
+            "imageURL": "https://storage.fluffy.social/files/f093e691-9aad-4246-b50c-2ec1116c3dca.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_thealgorithms",
+            "imageURL": "https://storage.fluffy.social/files/ae643179-2748-4cdc-93ed-efa2872347af.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_threejs",
+            "imageURL": "https://storage.fluffy.social/files/63f7f179-4938-4dd8-8b43-a53d7ff6efb1.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_tomcat",
+            "imageURL": "https://storage.fluffy.social/files/064fe18b-97b7-4f32-bc73-10eecfc0533f.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_tortoisegit",
+            "imageURL": "https://storage.fluffy.social/files/18ac83e9-a545-4b7a-8a25-4313e51b9699.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_towergit",
+            "imageURL": "https://storage.fluffy.social/files/2e6db286-68fa-4a33-9a5e-28a049ed3e4b.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_travis",
+            "imageURL": "https://storage.fluffy.social/files/6b395058-58ff-43e7-be11-6a5485fefdd0.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_trello",
+            "imageURL": "https://storage.fluffy.social/files/8b32e3ed-b425-4aed-808f-debc594e47dd.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_twitter",
+            "imageURL": "https://storage.fluffy.social/files/dfbe6884-85f5-489d-ab03-d9b89815ac2f.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_typescript",
+            "imageURL": "https://storage.fluffy.social/files/8f37cc03-6add-49b6-9849-69b3b5578365.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_typo3",
+            "imageURL": "https://storage.fluffy.social/files/12bef279-45e0-4596-9493-549c7b14e551.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_ubuntu",
+            "imageURL": "https://storage.fluffy.social/files/b5e06fc9-233b-4830-9bcc-763b3d0aa266.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_unity",
+            "imageURL": "https://storage.fluffy.social/files/d1177192-9eb5-409a-aa2e-aab4116e2043.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_unix",
+            "imageURL": "https://storage.fluffy.social/files/a5041611-c935-4b1e-ab56-afe8e1024c1c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_unrealengine",
+            "imageURL": "https://storage.fluffy.social/files/3899cb24-a79f-41b4-a619-2e8f3749e426.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_uwsgi",
+            "imageURL": "https://storage.fluffy.social/files/6cf2306f-ed7f-4875-86c4-3a94fb6d21db.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_vagrant",
+            "imageURL": "https://storage.fluffy.social/files/1e0e367c-e129-4e91-8709-6fe71ad4b53f.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_vim",
+            "imageURL": "https://storage.fluffy.social/files/3bd930a3-29dc-4e18-b1f7-2d7a8d3eb8ce.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_visualstudio",
+            "imageURL": "https://storage.fluffy.social/files/850474ce-5061-4c8a-b8dd-3b62decadc9d.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_vscode",
+            "imageURL": "https://storage.fluffy.social/files/d36dfe5f-8d41-4e97-9aac-2d79508087c2.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_vuejs",
+            "imageURL": "https://storage.fluffy.social/files/29a037dd-cc7a-490d-a9ce-8d44f45f11e1.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_vuestorefront",
+            "imageURL": "https://storage.fluffy.social/files/e78b8fd6-9acd-4449-978f-2d0631bf5b2c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_vuetify",
+            "imageURL": "https://storage.fluffy.social/files/83284d34-a6b6-4b4c-a03b-220d155d2b5e.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_webflow",
+            "imageURL": "https://storage.fluffy.social/files/9ebe1823-5282-49e4-90ac-ee2507004218.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_weblate",
+            "imageURL": "https://storage.fluffy.social/files/df01119b-fdbb-4453-b8fa-d6caa777e339.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_webpack",
+            "imageURL": "https://storage.fluffy.social/files/046d4b03-78ce-4f03-aea0-28d09c5dbc4b.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_webstorm",
+            "imageURL": "https://storage.fluffy.social/files/96656153-b5a2-4a20-8d7e-a88ddd903f78.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_windows8",
+            "imageURL": "https://storage.fluffy.social/files/10243a05-8906-430c-a186-23f25ab90185.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_woocommerce",
+            "imageURL": "https://storage.fluffy.social/files/b211dbbe-f5ef-4713-a036-1c1e6cca53cd.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_wordpress",
+            "imageURL": "https://storage.fluffy.social/files/a1eed90f-d57b-430a-bf09-6bb49da3aeac.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_xamarin",
+            "imageURL": "https://storage.fluffy.social/files/8d9f5364-5aac-490b-af9f-5dd55772d535.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_xcode",
+            "imageURL": "https://storage.fluffy.social/files/5d627e7e-3b60-4a4f-87f0-77c009ce3218.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_xd",
+            "imageURL": "https://storage.fluffy.social/files/191253c5-ee92-4197-848a-45c75d2b2f43.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_yarn",
+            "imageURL": "https://storage.fluffy.social/files/300367c1-c03f-49cc-b9a8-248f60f9e136.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_yii",
+            "imageURL": "https://storage.fluffy.social/files/b55f0e1d-7179-4636-b75c-5e16141bced2.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_yunohost",
+            "imageURL": "https://storage.fluffy.social/files/73055d21-dfd0-4bfb-b726-a0aea80be588.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_zend",
+            "imageURL": "https://storage.fluffy.social/files/74720056-6e29-40a1-ac21-6db086dbcf57.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "devicon_zig",
+            "imageURL": "https://storage.fluffy.social/files/c674c919-50fd-439c-93b5-5f42b58c665c.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "briefcase",
+            "imageURL": "https://storage.fluffy.social/files/9d28fe8f-d790-4b1f-a882-e8f069e0dd9c.png",
+            "aliases": [
+            "buri"
+            ]
+        },
+        {
+            "shortcode": "kemonohub",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-5eccfa2c-358f-4b9e-9997-d9145cfb6fd4.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "kemonohub_wide",
+            "imageURL": "https://storage.fluffy.social/files/77c1cd18-d7c9-4cbf-9f30-858f871f1e41.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "chatgpt",
+            "imageURL": "https://storage.fluffy.social/files/04f25bef-5945-44d7-ae06-b0ccdc0195d8.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "gammalabstatus_red",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-fd0db34e-c6a7-4f22-83b1-d3d5beb09b6d.png",
+            "aliases": [
+            "red",
+            "error"
+            ]
+        },
+        {
+            "shortcode": "gammalabstatus_green",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-b8196b43-f384-408e-9951-acbe60ad60f0.png",
+            "aliases": [
+            "green",
+            "normal"
+            ]
+        },
+        {
+            "shortcode": "verified",
+            "imageURL": "https://storage.fluffy.social/files/fad8a6e8-eca1-46c5-9bae-b822f1608f60.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "verified_paw",
+            "imageURL": "https://storage.fluffy.social/files/5463efd0-26b8-407d-b256-32257a6ed1c3.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "concurrent",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-73d0e62f-41c3-4b65-b2d1-4fa9ada97f4e.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "concurrent_white",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-50de5f96-ae9b-468d-8ee8-0e3c10bd732b.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "angel_ring",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-cf62da21-eefa-4738-8bf1-2d41ef7e9562.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "fluffysocial_dark",
+            "imageURL": "https://storage.fluffy.social/files/a0645792-5329-4d83-9de8-3bbbee80d887.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "rip",
+            "imageURL": "https://storage.fluffy.social/files/fc6b7ecd-930c-4876-92f7-11890ec926ac.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "teijin",
+            "imageURL": "https://storage.fluffy.social/files/3c4d6ef6-5216-49d8-b182-a729136dcc41.jpg",
+            "aliases": [
+            "ていじん",
+            "帝人"
+            ]
+        },
+        {
+            "shortcode": "teiji_teijin",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-1e818517-eb6f-441e-bc1a-dbd082ded153.png",
+            "aliases": [
+            "ていじ",
+            "帝人"
+            ]
+        },
+        {
+            "shortcode": "freebsd",
+            "imageURL": "https://storage.fluffy.social/files/a2bdb01f-a115-4121-b7ea-ff6456cbdc38.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "sadmac",
+            "imageURL": "https://storage.fluffy.social/files/b82e34a1-be97-4047-9b62-d42e3034a6a9.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "soresore",
+            "imageURL": "https://storage.fluffy.social/files/4cfad59b-443e-441f-a63c-6e6eae003f98.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "birdsite",
+            "imageURL": "https://storage.fluffy.social/files/f0174e2f-a7f3-4e45-ad2c-796d44db7516.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "thunderbird",
+            "imageURL": "https://storage.fluffy.social/files/92567e67-4722-40fe-86fd-a35fd1ef2a98.webp",
+            "aliases": []
+        },
+        {
+            "shortcode": "cisco",
+            "imageURL": "https://storage.fluffy.social/files/d8cc6a57-ca5f-434e-af25-8e2a65c238ec.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "sisco",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-42c3ad8f-9195-4da9-90ec-6a5f32a3ba51.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "yo",
+            "imageURL": "https://storage.fluffy.social/files/53f28d64-b8dc-44d6-8314-3c9b98b1d8bb.png",
+            "aliases": []
+        }
+    ]
+}

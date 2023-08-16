@@ -1,0 +1,114 @@
+{
+    "name": "fluffysocial memes",
+    "version": "1.0.0",
+    "description": "fluffysocialで使われがちなミームたちです",
+    "credit": "",
+    "iconURL": "https://fluffy.social/files/959a9ee2-d8f3-4156-9e63-05148e932037",
+    "emojis": [
+        {
+            "shortcode": "internet_yamenaide",
+            "imageURL": "https://fluffy.social/files/d16a7203-dc5d-4457-98b5-7d76a68fe87f",
+            "aliases": [
+            "インターネットやめないで",
+            "インターネット",
+            "やめないで",
+            "net",
+            "Internet",
+            ""
+            ]
+        },
+        {
+            "shortcode": "internet_yamero",
+            "imageURL": "https://fluffy.social/files/9156f314-2bc8-4a57-8d4c-73ba884fd0d9",
+            "aliases": [
+            "インターネット",
+            "やめろ",
+            "stop",
+            "net",
+            "internet",
+            "インターネットやめろ"
+            ]
+        },
+        {
+            "shortcode": "petthex",
+            "imageURL": "https://fluffy.social/files/f0fa032d-c3b0-4b79-8e7b-a10d00d848d5",
+            "aliases": [
+            "",
+            "nadenade"
+            ]
+        },
+        {
+            "shortcode": "kek_doggo",
+            "imageURL": "https://fluffy.social/files/db4ea1aa-7bf3-4a61-ac1c-fc9efd36861c",
+            "aliases": [
+            "_real"
+            ]
+        },
+        {
+            "shortcode": "wuff_doggo_fast",
+            "imageURL": "https://fluffy.social/files/9cb52b4b-7a7f-48aa-b53b-6d685ec82191",
+            "aliases": [
+            "",
+            "animated",
+            "_real"
+            ]
+        },
+        {
+            "shortcode": "sadpolar",
+            "imageURL": "https://fluffy.social/files/d7d34fc2-ac21-496d-b330-0f8531b5b0a7",
+            "aliases": [
+            "",
+            "animated"
+            ]
+        },
+        {
+            "shortcode": "wuff_doggo",
+            "imageURL": "https://fluffy.social/files/5d9b83b6-bb0a-4193-8cae-292cbf41cef8",
+            "aliases": [
+            "",
+            "animated",
+            "_real"
+            ]
+        },
+        {
+            "shortcode": "ultrafastpolar",
+            "imageURL": "https://fluffy.social/files/77f0c953-1640-4b73-9e28-d02282dade0c",
+            "aliases": [
+            "",
+            "animated"
+            ]
+        },
+        {
+            "shortcode": "what_how",
+            "imageURL": "https://storage.fluffy.social/files/2c8e02d4-f588-4022-a2ad-1953f3cbbabf.png",
+            "aliases": [
+            ""
+            ]
+        },
+        {
+            "shortcode": "happycat",
+            "imageURL": "https://storage.fluffy.social/files/8b0c439c-327e-4065-b891-ac52075820ee.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "warota",
+            "imageURL": "https://fluffy.social/files/959a9ee2-d8f3-4156-9e63-05148e932037",
+            "aliases": []
+        },
+        {
+            "shortcode": "emergency",
+            "imageURL": "https://fluffy.social/files/16c8b142-7802-41fd-a819-7263f287dd73",
+            "aliases": []
+        },
+        {
+            "shortcode": "justdoit",
+            "imageURL": "https://storage.fluffy.social/files/4631dd0e-66ff-453d-b410-7b060adfaa00.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "otanoshimiga8000bai",
+            "imageURL": "https://fluffy.social/files/cae1dd82-8ff4-4e3d-8367-e57c2dbe6b48",
+            "aliases": []
+        }
+    ]
+}
