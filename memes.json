@@ -109,6 +109,11 @@
             "shortcode": "otanoshimiga8000bai",
             "imageURL": "https://fluffy.social/files/cae1dd82-8ff4-4e3d-8367-e57c2dbe6b48",
             "aliases": []
+        },
+        {
+            "shortcode": "explosion",
+            "imageURL": "https://fluffy.social/files/e0505fd9-e9e0-45ca-8261-8e5e17c0fbd9",
+            "aliases": []
         }
     ]
 }
