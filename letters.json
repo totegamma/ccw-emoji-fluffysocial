@@ -2894,6 +2894,16 @@
             "焼肉",
             "itumosobani_yakiniku"
             ]
+        },
+        {
+            "shortcode": "kita",
+            "imageURL": "https://storage.fluffy.social/files/a5502f9c-b82f-4236-8e80-d6b3a893b709.webp",
+            "aliases": []
+        },
+        {
+            "shortcode": "igyo",
+            "imageURL": "https://storage.fluffy.social/files/2fb7cc0e-b66f-4e2a-95e0-855e494323de.png",
+            "aliases": []
         }
     ]
 }

@@ -201,6 +201,11 @@
             ]
         },
         {
+            "shortcode": "nakaiankow_punch",
+            "imageURL": "https://storage.fluffy.social/files/e3ce8f8f-935f-454c-97bc-4fea55dcc883.png",
+            "aliases": []
+        },
+        {
             "shortcode": "dotdot_uni",
             "imageURL": "https://fluffy.social/files/2bed16d6-c16d-42de-a439-268ca58b35a0",
             "aliases": [
@@ -610,6 +615,11 @@
         {
             "shortcode": "nox_showtime",
             "imageURL": "https://storage.fluffy.social/files/840386f1-1248-495a-8c16-709d81b4e2d4.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "nox_sorena",
+            "imageURL": "https://storage.fluffy.social/files/235e5247-a795-4214-9a99-3ff6198f9434.png",
             "aliases": []
         },
         {
