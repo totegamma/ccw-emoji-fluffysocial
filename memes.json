@@ -114,6 +114,26 @@
             "shortcode": "explosion",
             "imageURL": "https://fluffy.social/files/e0505fd9-e9e0-45ca-8261-8e5e17c0fbd9",
             "aliases": []
+        },
+        {
+            "shortcode": "ablobcall",
+            "imageURL": "https://storage.fluffy.social/files/e96e2a9b-2a10-4f1c-9c5a-96791d5a54a5.apng",
+            "aliases": []
+        },
+        {
+            "shortcode": "ablobcall",
+            "imageURL": "https://storage.fluffy.social/files/e96e2a9b-2a10-4f1c-9c5a-96791d5a54a5.apng",
+            "aliases": []
+        },
+        {
+            "shortcode": "staticpolar",
+            "imageURL": "https://storage.fluffy.social/files/9c4048cf-9584-4052-951e-f1ef9932925e.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "superslowpolar",
+            "imageURL": "https://storage.fluffy.social/files/24a7dff2-ee13-4be3-aec7-9d72a5b1f4cd.gif",
+            "aliases": []
         }
     ]
 }

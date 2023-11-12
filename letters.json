@@ -2904,6 +2904,31 @@
             "shortcode": "igyo",
             "imageURL": "https://storage.fluffy.social/files/2fb7cc0e-b66f-4e2a-95e0-855e494323de.png",
             "aliases": []
+        },
+        {
+            "shortcode": "nemusugiru",
+            "imageURL": "https://storage.fluffy.social/files/31ffce63-a2c3-4fa9-a7f4-f176a173db44.webp",
+            "aliases": []
+        },
+        {
+            "shortcode": "nemusugiru1",
+            "imageURL": "https://storage.fluffy.social/files/c0b08794-c296-450b-9364-a24b44ef277c.webp",
+            "aliases": []
+        },
+        {
+            "shortcode": "nemusugiru2",
+            "imageURL": "https://storage.fluffy.social/files/deef5a92-e246-486a-8f5e-0825babb8338.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "sonnna",
+            "imageURL": "https://storage.fluffy.social/files/15b2661c-91a7-47c6-b9a7-001a8af3cce9.webp",
+            "aliases": []
+        },
+        {
+            "shortcode": "aruaru",
+            "imageURL": "https://storage.fluffy.social/files/a82cfc41-5736-418d-9b8d-fbc40b295da6.png",
+            "aliases": []
         }
     ]
 }
