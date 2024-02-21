@@ -134,6 +134,11 @@
             "shortcode": "superslowpolar",
             "imageURL": "https://storage.fluffy.social/files/24a7dff2-ee13-4be3-aec7-9d72a5b1f4cd.gif",
             "aliases": []
+        },
+        {
+            "shortcode": "resonyance",
+            "imageURL": "https://storage.fluffy.social/files/de2bcf9d-e147-4b34-9517-25e33ba8fe6b.webp",
+            "aliases": []
         }
     ]
 }
