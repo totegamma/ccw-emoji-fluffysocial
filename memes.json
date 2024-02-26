@@ -139,6 +139,11 @@
             "shortcode": "resonyance",
             "imageURL": "https://storage.fluffy.social/files/de2bcf9d-e147-4b34-9517-25e33ba8fe6b.webp",
             "aliases": []
+        },
+        {
+            "shortcode": "pray_ultra",
+            "imageURL": "https://storage.fluffy.social/files/598f5725-c487-4686-b22a-da1058af5eda.gif",
+            "aliases": []
         }
     ]
 }

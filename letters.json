@@ -2929,6 +2929,31 @@
             "shortcode": "aruaru",
             "imageURL": "https://storage.fluffy.social/files/a82cfc41-5736-418d-9b8d-fbc40b295da6.png",
             "aliases": []
+        },
+        {
+            "shortcode": "hayasagatariteru",
+            "imageURL": "https://storage.fluffy.social/files/99539f73-b666-412f-98ef-f9ca5677f124.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "arukamo",
+            "imageURL": "https://storage.fluffy.social/files/b98daad1-17d1-429a-8873-1474a7af81d8.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "naikamo",
+            "imageURL": "https://storage.fluffy.social/files/c101366e-5e8a-4e3e-9f6e-74704080aa3a.png",
+            "aliases": []
+        },
+        {
+            "shortcode": "chottowakaru",
+            "imageURL": "https://storage.fluffy.social/files/57126030-388d-4fb5-85c3-b5136242edda.webp",
+            "aliases": []
+        },
+        {
+            "shortcode": "chottomateya",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-5809b8c9-de91-47d6-9af4-7056cce63924.png",
+            "aliases": []
         }
     ]
 }
