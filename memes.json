@@ -144,6 +144,26 @@
             "shortcode": "pray_ultra",
             "imageURL": "https://storage.fluffy.social/files/598f5725-c487-4686-b22a-da1058af5eda.gif",
             "aliases": []
+        },
+        {
+            "shortcode": "eyes_fidgeting",
+            "imageURL": "https://storage.fluffy.social/files/b17a1117-3e4e-4b45-a21b-9203405d2245.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "gomenne",
+            "imageURL": "https://storage.fluffy.social/files/0e397254-5896-44bf-aa0c-4a3796f6e054.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "gomenne_fast",
+            "imageURL": "https://storage.fluffy.social/files/b4b1f70f-e57b-4a4c-b902-66ea7ccc20b5.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "ablobcatnodmeltcry",
+            "imageURL": "https://storage.fluffy.social/files/48f5d1b6-eb22-4f0b-8726-571a6e78a8d2.gif",
+            "aliases": []
         }
     ]
 }
