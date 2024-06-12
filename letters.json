@@ -2974,6 +2974,31 @@
             "shortcode": "jiyuritsuhaiku",
             "imageURL": "https://storage.fluffy.social/files/ea7de3fd-720f-4f87-94c8-b10159f038bf.webp",
             "aliases": []
+        },
+        {
+            "shortcode": "uwaaaa",
+            "imageURL": "https://storage.fluffy.social/files/a16a7f26-a452-4aa0-8fbd-5806b223085f.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "yokatta",
+            "imageURL": "https://storage.fluffy.social/files/dace629b-b798-4a3d-b0b4-e897f72ec1f1.webp",
+            "aliases": []
+        },
+        {
+            "shortcode": "sasuga",
+            "imageURL": "https://storage.fluffy.social/files/4c0aefda-4218-4154-94f7-791e6891a833.webp",
+            "aliases": []
+        },
+        {
+            "shortcode": "odorokiari",
+            "imageURL": "https://storage.fluffy.social/files/e1c861e7-c8ae-4ef4-83d9-662ef07d9194.webp",
+            "aliases": []
+        },
+        {
+            "shortcode": "odorokinashi",
+            "imageURL": "https://storage.fluffy.social/files/bb3dadfd-23e7-4d04-aebe-98617acbb877.webp",
+            "aliases": []
         }
     ]
 }

@@ -629,6 +629,21 @@
             "ろくろもち",
             "壁"
             ]
+        },
+        {
+            "shortcode": "nabo_confident",
+            "imageURL": "https://storage.fluffy.social/files/d92c4a0f-fda0-4552-928a-2405a21968d5.webp",
+            "aliases": []
+        },
+        {
+            "shortcode": "pinkmoffu_dance",
+            "imageURL": "https://storage.fluffy.social/files/c866bf7b-ac45-4d8d-82ec-a5e5d6c34f8d.gif",
+            "aliases": []
+        },
+        {
+            "shortcode": "amu_ahe",
+            "imageURL": "https://storage.fluffy.social/files/4a716ce6-afd2-4337-a7bb-67bc5c8ffffe.webp",
+            "aliases": []
         }
     ]
 }
