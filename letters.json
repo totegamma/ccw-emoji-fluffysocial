@@ -3019,6 +3019,11 @@
             "shortcode": "tadashii",
             "imageURL": "https://storage.fluffy.social/files/fef5f735-7be7-4394-bdbf-62bf6c5675bb.webp",
             "aliases": []
+        },
+        {
+            "shortcode": "conne",
+            "imageURL": "https://storage.fluffy.social/files/e21218c6-1c75-40a9-a53d-6dc91e28dcf5.webp",
+            "aliases": ["water"]
         }
     ]
 }
