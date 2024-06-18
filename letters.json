@@ -2999,6 +2999,16 @@
             "shortcode": "odorokinashi",
             "imageURL": "https://storage.fluffy.social/files/bb3dadfd-23e7-4d04-aebe-98617acbb877.webp",
             "aliases": []
+        },
+        {
+            "shortcode": "yatteiki",
+            "imageURL": "https://storage.fluffy.social/files/22ead815-3abd-4e4a-8c7c-92799301d09f.webp",
+            "aliases": []
+        },
+        {
+            "shortcode": "oh",
+            "imageURL": "https://storage.fluffy.social/files/e06fcdc8-7c9a-4624-9b1d-d1aa15c44ace.webp",
+            "aliases": []
         }
     ]
 }
