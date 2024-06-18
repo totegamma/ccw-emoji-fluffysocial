@@ -3009,6 +3009,16 @@
             "shortcode": "oh",
             "imageURL": "https://storage.fluffy.social/files/e06fcdc8-7c9a-4624-9b1d-d1aa15c44ace.webp",
             "aliases": []
+        },
+        {
+            "shortcode": "wow",
+            "imageURL": "https://storage.fluffy.social/files/984bf655-aae5-4e2f-a27b-e6df64a801a3.webp",
+            "aliases": []
+        },
+        {
+            "shortcode": "tadashii",
+            "imageURL": "https://storage.fluffy.social/files/fef5f735-7be7-4394-bdbf-62bf6c5675bb.webp",
+            "aliases": []
         }
     ]
 }
