@@ -169,6 +169,11 @@
             "shortcode": "asa4ji",
             "imageURL": "https://storage.fluffy.social/files/d1b45655-d17b-4871-a05c-a5c293263a47.webp",
             "aliases": []
+        },
+        {
+            "shortcode": "sad_dog",
+            "imageURL": "https://storage.fluffy.social/files/2e20e24c-5500-40db-b409-f347c734ef0b.png",
+            "aliases": []
         }
     ]
 }
