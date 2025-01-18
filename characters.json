@@ -59,6 +59,14 @@
             ]
         },
         {
+            "shortcode": "totegamma_smiling",
+            "imageURL": "https://storage.fluffy.social/files/b3515fc2-6aac-477a-b783-f90d536f32b4.webp",
+            "aliases": [
+            "",
+            "ととがんま"
+            ]
+        },
+        {
             "shortcode": "totegammasleep",
             "imageURL": "https://fluffy.social/files/20bd9d09-f39b-4a1e-90e6-a28510ded32c",
             "aliases": [
@@ -74,32 +82,8 @@
             ]
         },
         {
-            "shortcode": "totegamma_blush",
-            "imageURL": "https://fluffy.social/files/dddb72ea-d54b-4d72-8257-6b59bb3c2795",
-            "aliases": [
-            "",
-            "ととがんま"
-            ]
-        },
-        {
             "shortcode": "totegamma",
             "imageURL": "https://fluffy.social/files/d98cbb6d-7a1c-4937-b5cc-5e1b5903edeb",
-            "aliases": [
-            "",
-            "ととがんま"
-            ]
-        },
-        {
-            "shortcode": "totegamma_nagomi",
-            "imageURL": "https://fluffy.social/files/442badbc-e368-439c-90db-6335fc494d09",
-            "aliases": [
-            "",
-            "ととがんま"
-            ]
-        },
-        {
-            "shortcode": "totegamma_joy",
-            "imageURL": "https://fluffy.social/files/ac899477-dc1b-408f-b29a-cc4981d761c9",
             "aliases": [
             "",
             "ととがんま"
@@ -191,6 +175,14 @@
             "aliases": [
             "rocro",
             "ろくろもち"
+            ]
+        },
+        {
+            "shortcode": "rocromochi_transform_2",
+            "imageURL": "https://storage.fluffy.social/files/webpublic-11f8198a-5acd-4a7c-bdce-691a4bd1daa1.png",
+            "aliases": [
+                "rocromochi",
+                "ろくろもち"
             ]
         },
         {
